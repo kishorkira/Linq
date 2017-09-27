@@ -1,0 +1,7 @@
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Features\bin\Debug\Features.exe.config
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Features\bin\Debug\Features.exe
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Features\bin\Debug\Features.pdb
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Features\obj\Debug\Features.csprojResolveAssemblyReference.cache
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Features\obj\Debug\Features.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Features\obj\Debug\Features.exe
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Features\obj\Debug\Features.pdb
