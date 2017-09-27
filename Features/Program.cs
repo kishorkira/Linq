@@ -20,7 +20,7 @@ namespace Features
                 new Employee{Id=4,Name="Sri"}
 
             };
-
+            Console.WriteLine(sales.Count());
             IEnumerator<Employee> enumerator = developers.GetEnumerator();
             while (enumerator.MoveNext())
             {
