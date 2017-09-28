@@ -1,0 +1,7 @@
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Queries\bin\Debug\Queries.exe.config
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Queries\bin\Debug\Queries.exe
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Queries\bin\Debug\Queries.pdb
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Queries\obj\Debug\Queries.exe
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Queries\obj\Debug\Queries.pdb
