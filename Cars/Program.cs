@@ -12,6 +12,32 @@ namespace Cars
             var cars = ProcessCarFile("fuel.csv");
             var manufacturers = ProcessManufacturerFile("manufacturers.csv");
 
+            var aggregateQuery = cars
+                                .GroupBy(c => c.Manufacturer.ToUpper())
+                                .Select(g =>
+                                {
+                                    var result = g.Aggregate(new CarStatistics(),
+                                                               (acc,c) => acc.Accumulate(c),
+                                                               acc => acc.Compute());
+                                    return new
+                                    {
+                                        Manufacturer = g.Key,
+                                        Max = result.Max,
+                                        Min = result.Min,
+                                        Average = result.Average
+
+                                    };
+                                })
+                                .OrderByDescending(g=> g.Max);
+            foreach(var car in aggregateQuery)
+            {
+                Console.WriteLine(car.Manufacturer);
+                Console.WriteLine($"\t Max : {car.Max}");
+                Console.WriteLine($"\t Min : {car.Min}");
+                Console.WriteLine($"\t Average : {car.Average}");
+
+            }
+
             var gjCountryQuery = from manufacturer in manufacturers
                                  join car in cars on manufacturer.Name equals car.Manufacturer
                                  into carGroup
@@ -33,17 +59,17 @@ namespace Cars
                                        })
                              .GroupBy(g => g.Manufacturer.Headquarters);
 
-            foreach (var group in gjCountryQuery2)
-            {
-                Console.WriteLine($"{group.Key} ");
-                foreach (var car in group
-                                    .SelectMany(g => g.Cars)
-                                    .OrderByDescending(c => c.Combined)
-                                    .Take(3))
-                {
-                    Console.WriteLine($"\t{car.Name} : {car.Combined}");
-                }
-            }
+            //foreach (var group in gjCountryQuery2)
+            //{
+            //    Console.WriteLine($"{group.Key} ");
+            //    foreach (var car in group
+            //                        .SelectMany(g => g.Cars)
+            //                        .OrderByDescending(c => c.Combined)
+            //                        .Take(3))
+            //    {
+            //        Console.WriteLine($"\t{car.Name} : {car.Combined}");
+            //    }
+            //}
 
             var gjQuery = from manufacturer in manufacturers
                           join car in cars on manufacturer.Name equals car.Manufacturer
