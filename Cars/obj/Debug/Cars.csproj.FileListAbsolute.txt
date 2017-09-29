@@ -6,3 +6,5 @@ C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\obj\Debug\Cars.csprojResolveAss
 C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
 C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\obj\Debug\Cars.exe
 C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\obj\Debug\Cars.pdb
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\bin\Debug\fuel.csv
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\bin\Debug\manufacturers.csv
