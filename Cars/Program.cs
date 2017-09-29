@@ -12,6 +12,24 @@ namespace Cars
             var cars = ProcessCarFile("fuel.csv");
             var manufacturers = ProcessManufacturerFile("manufacturers.csv");
 
+            var gQuery = from car in cars
+                         group car by car.Manufacturer.ToUpper()
+                         into manufacturer
+                         orderby manufacturer.Key
+                         select manufacturer;
+            var gQuery2 = cars
+                            .GroupBy(c => c.Manufacturer.ToUpper())
+                            .OrderBy(g => g.Key);
+
+            foreach(var group in gQuery)
+            {
+                Console.WriteLine(group.Key);
+                foreach(var car in group.OrderByDescending(c => c.Combined).Take(3))
+                {
+                    Console.WriteLine($"\t{car.Name} : {car.Combined}");
+                }
+            }
+
             var query = from car in cars
                         join manufacturer in manufacturers
                         on new { car.Manufacturer, car.Year }
@@ -37,15 +55,15 @@ namespace Cars
                         .OrderByDescending(c => c.Combined)
                         .ThenBy(c => c.Name);
 
-            foreach(var car in query.Take(10))
-            {
-                Console.WriteLine($"{car.Name,-20} {car.Headquarters,-12}: {car.Combined}");
-            }
-            Console.WriteLine("**********************");
-            foreach (var car in query2.Take(10))
-            {
-                Console.WriteLine($"{car.Name,-20} {car.Headquarters,-12} : {car.Combined}");
-            }
+            //foreach(var car in query.Take(10))
+            //{
+            //    Console.WriteLine($"{car.Name,-20} {car.Headquarters,-12}: {car.Combined}");
+            //}
+            //Console.WriteLine("**********************");
+            //foreach (var car in query2.Take(10))
+            //{
+            //    Console.WriteLine($"{car.Name,-20} {car.Headquarters,-12} : {car.Combined}");
+            //}
 
         }
 
