@@ -12,6 +12,39 @@ namespace Cars
             var cars = ProcessCarFile("fuel.csv");
             var manufacturers = ProcessManufacturerFile("manufacturers.csv");
 
+            var gjCountryQuery = from manufacturer in manufacturers
+                                 join car in cars on manufacturer.Name equals car.Manufacturer
+                                 into carGroup
+                                 orderby manufacturer.Name
+                                 select new
+                                 {
+                                     Manufacturer = manufacturer,
+                                     Cars = carGroup
+                                 } into result
+                                 group result by result.Manufacturer.Headquarters;
+            var gjCountryQuery2 = manufacturers
+                            .GroupJoin(cars,
+                                       m => m.Name,
+                                       c => c.Manufacturer,
+                                       (m, g) => new
+                                       {
+                                           Manufacturer = m,
+                                           Cars = g
+                                       })
+                             .GroupBy(g => g.Manufacturer.Headquarters);
+
+            foreach (var group in gjCountryQuery2)
+            {
+                Console.WriteLine($"{group.Key} ");
+                foreach (var car in group
+                                    .SelectMany(g => g.Cars)
+                                    .OrderByDescending(c => c.Combined)
+                                    .Take(3))
+                {
+                    Console.WriteLine($"\t{car.Name} : {car.Combined}");
+                }
+            }
+
             var gjQuery = from manufacturer in manufacturers
                           join car in cars on manufacturer.Name equals car.Manufacturer
                           into carGroup
@@ -32,14 +65,14 @@ namespace Cars
                                        })
                              .OrderBy(g => g.Manufacturer.Name);
 
-            foreach (var group in gjQuery2)
-            {
-                Console.WriteLine($"{group.Manufacturer.Name} : {group.Manufacturer.Headquarters}");
-                foreach (var car in group.Cars.OrderByDescending(c => c.Combined).Take(3))
-                {
-                    Console.WriteLine($"\t{car.Name} : {car.Combined}");
-                }
-            }
+            //foreach (var group in gjQuery2)
+            //{
+            //    Console.WriteLine($"{group.Manufacturer.Name} : {group.Manufacturer.Headquarters}");
+            //    foreach (var car in group.Cars.OrderByDescending(c => c.Combined).Take(3))
+            //    {
+            //        Console.WriteLine($"\t{car.Name} : {car.Combined}");
+            //    }
+            //}
 
 
             var gQuery = from car in cars
