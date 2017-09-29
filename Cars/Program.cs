@@ -12,19 +12,39 @@ namespace Cars
             var cars = ProcessCarFile("fuel.csv");
             var manufacturers = ProcessManufacturerFile("manufacturers.csv");
 
-            var query = cars.OrderByDescending(c => c.Combined)
-                            .ThenBy(c => c.Name);
-            var query2 = manufacturers.OrderBy(c => c.Headquarters)
-                           .ThenBy(c => c.Name);
-            foreach (var car in query.Take(10))
+            var query = from car in cars
+                        join manufacturer in manufacturers
+                        on car.Manufacturer equals manufacturer.Name
+                        orderby car.Combined descending, car.Name ascending
+                        select new
+                        {
+                            car.Name,
+                            car.Combined,
+                            manufacturer.Headquarters
+                        };
+            var query2 = cars
+                         .Join(manufacturers,
+                                c => c.Manufacturer,
+                                m => m.Name,
+                                (c, m) => new
+                                {
+                                    c.Name,
+                                    c.Combined,
+                                    m.Headquarters
+                                })
+                        .OrderByDescending(c => c.Combined)
+                        .ThenBy(c => c.Name);
+
+            foreach(var car in query.Take(10))
             {
-                Console.WriteLine($"{car.Manufacturer} {car.Name} : {car.Combined}");
+                Console.WriteLine($"{car.Name,-20} {car.Headquarters,-12}: {car.Combined}");
             }
-            Console.WriteLine("----Manufacturers----");
-            foreach (var manufacturer in query2)
+            Console.WriteLine("**********************");
+            foreach (var car in query2.Take(10))
             {
-                Console.WriteLine($"{manufacturer.Headquarters,-12} : {manufacturer.Name} ");
+                Console.WriteLine($"{car.Name,-20} {car.Headquarters,-12} : {car.Combined}");
             }
+
         }
 
         private static List<Manufacturer> ProcessManufacturerFile(string file)
