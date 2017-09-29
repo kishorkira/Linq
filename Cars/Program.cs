@@ -9,18 +9,33 @@ namespace Cars
     {
         static void Main(string[] args)
         {
-            var cars = ProcessFile("fuel.csv");
+            var cars = ProcessCarFile("fuel.csv");
+            var manufacturers = ProcessManufacturerFile("manufacturers.csv");
 
             var query = cars.OrderByDescending(c => c.Combined)
                             .ThenBy(c => c.Name);
-            foreach(var car in query.Take(10))
+            var query2 = manufacturers.OrderBy(c => c.Headquarters)
+                           .ThenBy(c => c.Name);
+            foreach (var car in query.Take(10))
             {
                 Console.WriteLine($"{car.Manufacturer} {car.Name} : {car.Combined}");
             }
+            Console.WriteLine("----Manufacturers----");
+            foreach (var manufacturer in query2)
+            {
+                Console.WriteLine($"{manufacturer.Headquarters,-12} : {manufacturer.Name} ");
+            }
         }
 
-        private static List<Car> ProcessFile(string path)
-            => File.ReadAllLines(path)
+        private static List<Manufacturer> ProcessManufacturerFile(string file)
+            => File.ReadAllLines(file)
+                    .Skip(1)
+                    .Where(line => line.Length > 1)
+                    .ToManufacturer()
+                    .ToList();
+
+        private static List<Car> ProcessCarFile(string file)
+            => File.ReadAllLines(file)
                     .Skip(1)
                     .Where(line => line.Length > 1)
                     //.Select(line => Car.ParseFromCvs(line))
