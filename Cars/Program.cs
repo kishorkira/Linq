@@ -12,6 +12,36 @@ namespace Cars
             var cars = ProcessCarFile("fuel.csv");
             var manufacturers = ProcessManufacturerFile("manufacturers.csv");
 
+            var gjQuery = from manufacturer in manufacturers
+                          join car in cars on manufacturer.Name equals car.Manufacturer
+                          into carGroup
+                          orderby manufacturer.Name
+                          select new
+                          {
+                              Manufacturer =manufacturer,
+                              Cars = carGroup
+                          };
+            var gjQuery2 = manufacturers
+                            .GroupJoin(cars,
+                                       m => m.Name,
+                                       c => c.Manufacturer,
+                                       (m, g) => new
+                                       {
+                                           Manufacturer = m,
+                                           Cars = g
+                                       })
+                             .OrderBy(g => g.Manufacturer.Name);
+
+            foreach (var group in gjQuery2)
+            {
+                Console.WriteLine($"{group.Manufacturer.Name} : {group.Manufacturer.Headquarters}");
+                foreach (var car in group.Cars.OrderByDescending(c => c.Combined).Take(3))
+                {
+                    Console.WriteLine($"\t{car.Name} : {car.Combined}");
+                }
+            }
+
+
             var gQuery = from car in cars
                          group car by car.Manufacturer.ToUpper()
                          into manufacturer
@@ -20,15 +50,6 @@ namespace Cars
             var gQuery2 = cars
                             .GroupBy(c => c.Manufacturer.ToUpper())
                             .OrderBy(g => g.Key);
-
-            foreach(var group in gQuery)
-            {
-                Console.WriteLine(group.Key);
-                foreach(var car in group.OrderByDescending(c => c.Combined).Take(3))
-                {
-                    Console.WriteLine($"\t{car.Name} : {car.Combined}");
-                }
-            }
 
             var query = from car in cars
                         join manufacturer in manufacturers
