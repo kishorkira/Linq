@@ -45,6 +45,7 @@
     <Compile Include="Car.cs" />
     <Compile Include="CarExtensions.cs" />
     <Compile Include="CarStatistics.cs" />
+    <Compile Include="CarXML.cs" />
     <Compile Include="Manufacturer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

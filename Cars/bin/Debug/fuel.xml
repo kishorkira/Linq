@@ -1,0 +1,1208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car Name="4C" Manufacturer="ALFA ROMEO" Displacement="1.8" Combined="28" Cylinders="4" City="24" Highway="34" Year="2016" />
+  <Car Name="V12 Vantage S" Manufacturer="Aston Martin Lagonda Ltd" Displacement="6" Combined="14" Cylinders="12" City="12" Highway="18" Year="2016" />
+  <Car Name="V8 Vantage" Manufacturer="Aston Martin Lagonda Ltd" Displacement="4.7" Combined="16" Cylinders="8" City="14" Highway="21" Year="2016" />
+  <Car Name="V8 Vantage" Manufacturer="Aston Martin Lagonda Ltd" Displacement="4.7" Combined="15" Cylinders="8" City="13" Highway="19" Year="2016" />
+  <Car Name="V8 Vantage S" Manufacturer="Aston Martin Lagonda Ltd" Displacement="4.7" Combined="16" Cylinders="8" City="14" Highway="21" Year="2016" />
+  <Car Name="V8 Vantage S" Manufacturer="Aston Martin Lagonda Ltd" Displacement="4.7" Combined="15" Cylinders="8" City="13" Highway="19" Year="2016" />
+  <Car Name="Vantage GT" Manufacturer="Aston Martin Lagonda Ltd" Displacement="4.7" Combined="16" Cylinders="8" City="14" Highway="21" Year="2016" />
+  <Car Name="Vantage GT" Manufacturer="Aston Martin Lagonda Ltd" Displacement="4.7" Combined="15" Cylinders="8" City="13" Highway="19" Year="2016" />
+  <Car Name="TT Roadster quattro" Manufacturer="Audi" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="M4 GTS" Manufacturer="BMW" Displacement="3" Combined="19" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="Z4 sDrive28i" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="33" Year="2016" />
+  <Car Name="Z4 sDrive28i" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="Z4 sDrive35i" Manufacturer="BMW" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="Z4 sDrive35is" Manufacturer="BMW" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="CORVETTE" Manufacturer="Chevrolet" Displacement="6.2" Combined="16" Cylinders="8" City="13" Highway="23" Year="2016" />
+  <Car Name="CORVETTE" Manufacturer="Chevrolet" Displacement="6.2" Combined="20" Cylinders="8" City="16" Highway="29" Year="2016" />
+  <Car Name="CORVETTE" Manufacturer="Chevrolet" Displacement="6.2" Combined="18" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="CORVETTE" Manufacturer="Chevrolet" Displacement="6.2" Combined="21" Cylinders="8" City="17" Highway="29" Year="2016" />
+  <Car Name="Viper SRT" Manufacturer="Dodge" Displacement="8.4" Combined="15" Cylinders="10" City="12" Highway="21" Year="2016" />
+  <Car Name="488 GTB" Manufacturer="Ferrari" Displacement="3.9" Combined="18" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="488 GTB" Manufacturer="Ferrari" Displacement="3.9" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="F12" Manufacturer="Ferrari" Displacement="6.3" Combined="13" Cylinders="12" City="11" Highway="16" Year="2016" />
+  <Car Name="F12" Manufacturer="Ferrari" Displacement="6.3" Combined="13" Cylinders="12" City="12" Highway="16" Year="2016" />
+  <Car Name="F12 tdf" Manufacturer="Ferrari" Displacement="6.3" Combined="13" Cylinders="12" City="12" Highway="17" Year="2016" />
+  <Car Name="F12 tdf" Manufacturer="Ferrari" Displacement="6.3" Combined="12" Cylinders="12" City="11" Highway="15" Year="2016" />
+  <Car Name="F60 America" Manufacturer="Ferrari" Displacement="6.3" Combined="13" Cylinders="12" City="12" Highway="15" Year="2016" />
+  <Car Name="F60 America" Manufacturer="Ferrari" Displacement="6.3" Combined="13" Cylinders="12" City="11" Highway="15" Year="2016" />
+  <Car Name="CR-Z" Manufacturer="Honda" Displacement="1.5" Combined="37" Cylinders="4" City="36" Highway="39" Year="2016" />
+  <Car Name="CR-Z" Manufacturer="Honda" Displacement="1.5" Combined="34" Cylinders="4" City="31" Highway="38" Year="2016" />
+  <Car Name="F-TYPE Convertible" Manufacturer="Jaguar" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="F-TYPE Convertible Manual" Manufacturer="Jaguar" Displacement="3" Combined="19" Cylinders="6" City="16" Highway="24" Year="2016" />
+  <Car Name="F-TYPE Coupe" Manufacturer="Jaguar" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="F-TYPE Coupe Manual" Manufacturer="Jaguar" Displacement="3" Combined="19" Cylinders="6" City="16" Highway="24" Year="2016" />
+  <Car Name="F-TYPE R AWD Convertible" Manufacturer="Jaguar" Displacement="5" Combined="18" Cylinders="8" City="15" Highway="23" Year="2016" />
+  <Car Name="F-TYPE R AWD Coupe" Manufacturer="Jaguar" Displacement="5" Combined="18" Cylinders="8" City="15" Highway="23" Year="2016" />
+  <Car Name="F-TYPE R Convertible" Manufacturer="Jaguar" Displacement="5" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="F-TYPE S AWD Convertible" Manufacturer="Jaguar" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="F-TYPE S AWD Coupe" Manufacturer="Jaguar" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="F-TYPE S Convertible" Manufacturer="Jaguar" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="F-TYPE S Convertible Manual" Manufacturer="Jaguar" Displacement="3" Combined="18" Cylinders="6" City="15" Highway="24" Year="2016" />
+  <Car Name="F-TYPE S Coupe" Manufacturer="Jaguar" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="F-TYPE S Coupe Manual" Manufacturer="Jaguar" Displacement="3" Combined="18" Cylinders="6" City="15" Highway="24" Year="2016" />
+  <Car Name="Aventador Coupe" Manufacturer="Lamborghini" Displacement="6.5" Combined="13" Cylinders="12" City="11" Highway="18" Year="2016" />
+  <Car Name="Aventador Roadster" Manufacturer="Lamborghini" Displacement="6.5" Combined="12" Cylinders="12" City="10" Highway="17" Year="2016" />
+  <Car Name="Huracan" Manufacturer="Lamborghini" Displacement="5.2" Combined="17" Cylinders="10" City="14" Highway="21" Year="2016" />
+  <Car Name="Huracan Spyder" Manufacturer="Lamborghini" Displacement="5.2" Combined="16" Cylinders="10" City="14" Highway="20" Year="2016" />
+  <Car Name="MX-5" Manufacturer="MAZDA" Displacement="2" Combined="30" Cylinders="4" City="27" Highway="36" Year="2016" />
+  <Car Name="MX-5" Manufacturer="MAZDA" Displacement="2" Combined="30" Cylinders="4" City="27" Highway="34" Year="2016" />
+  <Car Name="570S Coupe" Manufacturer="McLaren" Displacement="3.8" Combined="19" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="650S Coupe" Manufacturer="McLaren" Displacement="3.8" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="650S Spider" Manufacturer="McLaren" Displacement="3.8" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="675LT Coupe" Manufacturer="McLaren" Displacement="3.8" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="AMG GT S" Manufacturer="Mercedes-Benz" Displacement="4" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="AMG SL 63" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="19" Cylinders="8" City="16" Highway="25" Year="2016" />
+  <Car Name="AMG SL 65" Manufacturer="Mercedes-Benz" Displacement="6" Combined="17" Cylinders="12" City="14" Highway="21" Year="2016" />
+  <Car Name="AMG SLK 55" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="22" Cylinders="8" City="19" Highway="28" Year="2016" />
+  <Car Name="SL 400" Manufacturer="Mercedes-Benz" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="SL 550" Manufacturer="Mercedes-Benz" Displacement="4.7" Combined="19" Cylinders="8" City="16" Highway="24" Year="2016" />
+  <Car Name="SLK 300" Manufacturer="Mercedes-Benz" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="32" Year="2016" />
+  <Car Name="SLK 350" Manufacturer="Mercedes-Benz" Displacement="3.5" Combined="24" Cylinders="6" City="21" Highway="29" Year="2016" />
+  <Car Name="Smart fortwo (COUPE)" Manufacturer="Mercedes-Benz" Displacement="0.9" Combined="36" Cylinders="3" City="34" Highway="39" Year="2016" />
+  <Car Name="Smart fortwo (COUPE)" Manufacturer="Mercedes-Benz" Displacement="0.9" Combined="35" Cylinders="3" City="32" Highway="39" Year="2016" />
+  <Car Name="370Z" Manufacturer="NISSAN" Displacement="3.7" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="370Z" Manufacturer="NISSAN" Displacement="3.7" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="370Z Roadster" Manufacturer="NISSAN" Displacement="3.7" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="370Z Roadster" Manufacturer="NISSAN" Displacement="3.7" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="Huayra Coupe" Manufacturer="Pagani Automobili S.p.A." Displacement="6" Combined="13" Cylinders="12" City="11" Highway="17" Year="2016" />
+  <Car Name="911 GT3" Manufacturer="Porsche" Displacement="3.8" Combined="17" Cylinders="6" City="15" Highway="20" Year="2016" />
+  <Car Name="911 GT3RS" Manufacturer="Porsche" Displacement="4" Combined="16" Cylinders="6" City="14" Highway="20" Year="2016" />
+  <Car Name="Boxster" Manufacturer="Porsche" Displacement="2.7" Combined="26" Cylinders="6" City="22" Highway="32" Year="2016" />
+  <Car Name="Boxster" Manufacturer="Porsche" Displacement="2.7" Combined="24" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="Boxster GTS" Manufacturer="Porsche" Displacement="3.4" Combined="25" Cylinders="6" City="22" Highway="31" Year="2016" />
+  <Car Name="Boxster GTS" Manufacturer="Porsche" Displacement="3.4" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="Boxster S" Manufacturer="Porsche" Displacement="3.4" Combined="24" Cylinders="6" City="21" Highway="30" Year="2016" />
+  <Car Name="Boxster S" Manufacturer="Porsche" Displacement="3.4" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="Boxster Spyder" Manufacturer="Porsche" Displacement="3.8" Combined="20" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="Cayman" Manufacturer="Porsche" Displacement="2.7" Combined="26" Cylinders="6" City="22" Highway="32" Year="2016" />
+  <Car Name="Cayman" Manufacturer="Porsche" Displacement="2.7" Combined="24" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="Cayman GT4" Manufacturer="Porsche" Displacement="3.8" Combined="20" Cylinders="6" City="18" Highway="23" Year="2016" />
+  <Car Name="Cayman GTS" Manufacturer="Porsche" Displacement="3.4" Combined="25" Cylinders="6" City="22" Highway="31" Year="2016" />
+  <Car Name="Cayman GTS" Manufacturer="Porsche" Displacement="3.4" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="Cayman S" Manufacturer="Porsche" Displacement="3.4" Combined="24" Cylinders="6" City="21" Highway="30" Year="2016" />
+  <Car Name="Cayman S" Manufacturer="Porsche" Displacement="3.4" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="DB9" Manufacturer="Aston Martin Lagonda Ltd" Displacement="5.9" Combined="15" Cylinders="12" City="13" Highway="19" Year="2016" />
+  <Car Name="Vanquish" Manufacturer="Aston Martin Lagonda Ltd" Displacement="6" Combined="16" Cylinders="12" City="13" Highway="21" Year="2016" />
+  <Car Name="California T" Manufacturer="Ferrari" Displacement="3.9" Combined="19" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="California T" Manufacturer="Ferrari" Displacement="3.9" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="500" Manufacturer="FIAT" Displacement="1.4" Combined="27" Cylinders="4" City="24" Highway="32" Year="2016" />
+  <Car Name="500" Manufacturer="FIAT" Displacement="1.4" Combined="30" Cylinders="4" City="27" Highway="34" Year="2016" />
+  <Car Name="500" Manufacturer="FIAT" Displacement="1.4" Combined="30" Cylinders="4" City="28" Highway="34" Year="2016" />
+  <Car Name="500" Manufacturer="FIAT" Displacement="1.4" Combined="34" Cylinders="4" City="31" Highway="40" Year="2016" />
+  <Car Name="500 Abarth" Manufacturer="FIAT" Displacement="1.4" Combined="27" Cylinders="4" City="24" Highway="32" Year="2016" />
+  <Car Name="500 Abarth" Manufacturer="FIAT" Displacement="1.4" Combined="30" Cylinders="4" City="28" Highway="34" Year="2016" />
+  <Car Name="Mini Cooper Convertible" Manufacturer="Mini" Displacement="1.5" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="Mini Cooper Convertible" Manufacturer="Mini" Displacement="1.5" Combined="31" Cylinders="4" City="27" Highway="38" Year="2016" />
+  <Car Name="Mini Cooper S Convertible" Manufacturer="Mini" Displacement="2" Combined="29" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="Mini Cooper S Convertible" Manufacturer="Mini" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="33" Year="2016" />
+  <Car Name="911 Carrera" Manufacturer="Porsche" Displacement="3.4" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="911 Carrera" Manufacturer="Porsche" Displacement="3.4" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="911 Carrera 4" Manufacturer="Porsche" Displacement="3.4" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="911 Carrera 4" Manufacturer="Porsche" Displacement="3.4" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="911 Carrera 4 Cabriolet" Manufacturer="Porsche" Displacement="3.4" Combined="22" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="911 Carrera 4 Cabriolet" Manufacturer="Porsche" Displacement="3.4" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="911 Carrera 4 GTS" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="911 Carrera 4 GTS" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="911 Carrera 4 GTS Cabriolet" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="911 Carrera 4 GTS Cabriolet" Manufacturer="Porsche" Displacement="3.8" Combined="20" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="911 Carrera 4S" Manufacturer="Porsche" Displacement="3.8" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="911 Carrera 4S" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="911 Carrera 4S Cabriolet" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="911 Carrera 4S Cabriolet" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="911 Carrera Cabriolet" Manufacturer="Porsche" Displacement="3.4" Combined="23" Cylinders="6" City="21" Highway="28" Year="2016" />
+  <Car Name="911 Carrera Cabriolet" Manufacturer="Porsche" Displacement="3.4" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="911 Carrera GTS" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="911 Carrera GTS" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="911 Carrera GTS Cabriolet" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="911 Carrera GTS Cabriolet" Manufacturer="Porsche" Displacement="3.8" Combined="20" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="911 Carrera S" Manufacturer="Porsche" Displacement="3.8" Combined="23" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="911 Carrera S" Manufacturer="Porsche" Displacement="3.8" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="911 Carrera S Cabriolet" Manufacturer="Porsche" Displacement="3.8" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="911 Carrera S Cabriolet" Manufacturer="Porsche" Displacement="3.8" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="911 Targa 4" Manufacturer="Porsche" Displacement="3.4" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="911 Targa 4" Manufacturer="Porsche" Displacement="3.4" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="911 Targa 4 GTS" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="911 Targa 4 GTS" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="911 Targa 4S" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="911 Targa 4S" Manufacturer="Porsche" Displacement="3.8" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="911 Turbo" Manufacturer="Porsche" Displacement="3.8" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="911 Turbo Cabriolet" Manufacturer="Porsche" Displacement="3.8" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="911 Turbo S" Manufacturer="Porsche" Displacement="3.8" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="911 Turbo S Cabriolet" Manufacturer="Porsche" Displacement="3.8" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="FR-S" Manufacturer="SCION" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="FR-S" Manufacturer="SCION" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="30" Year="2016" />
+  <Car Name="BRZ" Manufacturer="Subaru" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="BRZ" Manufacturer="Subaru" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="30" Year="2016" />
+  <Car Name="Rapide S" Manufacturer="Aston Martin Lagonda Ltd" Displacement="6" Combined="17" Cylinders="12" City="14" Highway="22" Year="2016" />
+  <Car Name="A3" Manufacturer="Audi" Displacement="1.8" Combined="27" Cylinders="4" City="23" Highway="33" Year="2016" />
+  <Car Name="A3 Cabriolet" Manufacturer="Audi" Displacement="1.8" Combined="28" Cylinders="4" City="24" Highway="35" Year="2016" />
+  <Car Name="A3 Cabriolet quattro" Manufacturer="Audi" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="32" Year="2016" />
+  <Car Name="A3 quattro" Manufacturer="Audi" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="33" Year="2016" />
+  <Car Name="A5 Cabriolet quattro" Manufacturer="Audi" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="29" Year="2016" />
+  <Car Name="A5 quattro" Manufacturer="Audi" Displacement="2" Combined="25" Cylinders="4" City="21" Highway="30" Year="2016" />
+  <Car Name="A5 quattro" Manufacturer="Audi" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="S3" Manufacturer="Audi" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="S5" Manufacturer="Audi" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="28" Year="2016" />
+  <Car Name="S5" Manufacturer="Audi" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="S5 Cabriolet" Manufacturer="Audi" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="TT Coupe quattro" Manufacturer="Audi" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="TTS Coupe" Manufacturer="Audi" Displacement="2" Combined="25" Cylinders="4" City="23" Highway="27" Year="2016" />
+  <Car Name="Continental GT Convertible" Manufacturer="Bentley" Displacement="4" Combined="17" Cylinders="8" City="14" Highway="24" Year="2016" />
+  <Car Name="Continental GT Convertible" Manufacturer="Bentley" Displacement="6" Combined="15" Cylinders="12" City="12" Highway="20" Year="2016" />
+  <Car Name="228i" Manufacturer="BMW" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="35" Year="2016" />
+  <Car Name="228i" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="228i Convertible" Manufacturer="BMW" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="34" Year="2016" />
+  <Car Name="228i xDrive" Manufacturer="BMW" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="35" Year="2016" />
+  <Car Name="228i xDrive Convertible" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="428i Convertible" Manufacturer="BMW" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="34" Year="2016" />
+  <Car Name="428i xDrive Convertible" Manufacturer="BMW" Displacement="2" Combined="25" Cylinders="4" City="21" Highway="33" Year="2016" />
+  <Car Name="435i Convertible" Manufacturer="BMW" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="31" Year="2016" />
+  <Car Name="435i xDrive Convertible" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="640i Convertible" Manufacturer="BMW" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="31" Year="2016" />
+  <Car Name="640i Coupe" Manufacturer="BMW" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="31" Year="2016" />
+  <Car Name="640i xDrive Convertible" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="640i xDrive Coupe" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="650i Convertible" Manufacturer="BMW" Displacement="4.4" Combined="20" Cylinders="8" City="17" Highway="25" Year="2016" />
+  <Car Name="650i Coupe" Manufacturer="BMW" Displacement="4.4" Combined="20" Cylinders="8" City="17" Highway="25" Year="2016" />
+  <Car Name="650i xDrive Convertible" Manufacturer="BMW" Displacement="4.4" Combined="18" Cylinders="8" City="15" Highway="24" Year="2016" />
+  <Car Name="650i xDrive Coupe" Manufacturer="BMW" Displacement="4.4" Combined="19" Cylinders="8" City="16" Highway="25" Year="2016" />
+  <Car Name="M2" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="M2" Manufacturer="BMW" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="M235i" Manufacturer="BMW" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="31" Year="2016" />
+  <Car Name="M235i" Manufacturer="BMW" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="M235i Convertible" Manufacturer="BMW" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="31" Year="2016" />
+  <Car Name="M235i Convertible" Manufacturer="BMW" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="M235i xDrive" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="M235i xDrive Convertible" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="M4 Convertible" Manufacturer="BMW" Displacement="3" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="M4 Convertible" Manufacturer="BMW" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="M6 Convertible" Manufacturer="BMW" Displacement="4.4" Combined="16" Cylinders="8" City="14" Highway="20" Year="2016" />
+  <Car Name="M6 Convertible" Manufacturer="BMW" Displacement="4.4" Combined="17" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="M6 Coupe" Manufacturer="BMW" Displacement="4.4" Combined="16" Cylinders="8" City="14" Highway="20" Year="2016" />
+  <Car Name="M6 Coupe" Manufacturer="BMW" Displacement="4.4" Combined="17" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="CASCADA" Manufacturer="Buick" Displacement="1.6" Combined="23" Cylinders="4" City="20" Highway="27" Year="2016" />
+  <Car Name="SPARK" Manufacturer="Chevrolet" Displacement="1.4" Combined="35" Cylinders="4" City="31" Highway="41" Year="2016" />
+  <Car Name="SPARK" Manufacturer="Chevrolet" Displacement="1.4" Combined="34" Cylinders="4" City="30" Highway="41" Year="2016" />
+  <Car Name="Fiesta FWD" Manufacturer="Ford" Displacement="1.6" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="Fiesta FWD" Manufacturer="Ford" Displacement="1.6" Combined="31" Cylinders="4" City="28" Highway="36" Year="2016" />
+  <Car Name="Fiesta SFE FWD" Manufacturer="Ford" Displacement="1" Combined="36" Cylinders="3" City="31" Highway="43" Year="2016" />
+  <Car Name="MUSTANG" Manufacturer="Ford" Displacement="2.3" Combined="25" Cylinders="4" City="21" Highway="32" Year="2016" />
+  <Car Name="MUSTANG" Manufacturer="Ford" Displacement="2.3" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="MUSTANG" Manufacturer="Ford" Displacement="3.7" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="MUSTANG" Manufacturer="Ford" Displacement="3.7" Combined="21" Cylinders="6" City="17" Highway="28" Year="2016" />
+  <Car Name="MUSTANG" Manufacturer="Ford" Displacement="5" Combined="19" Cylinders="8" City="16" Highway="25" Year="2016" />
+  <Car Name="MUSTANG" Manufacturer="Ford" Displacement="5" Combined="19" Cylinders="8" City="15" Highway="25" Year="2016" />
+  <Car Name="MUSTANG CONVERTIBLE" Manufacturer="Ford" Displacement="2.3" Combined="24" Cylinders="4" City="20" Highway="29" Year="2016" />
+  <Car Name="MUSTANG CONVERTIBLE" Manufacturer="Ford" Displacement="5" Combined="18" Cylinders="8" City="15" Highway="24" Year="2016" />
+  <Car Name="SHELBY GT350 MUSTANG" Manufacturer="Ford" Displacement="5.2" Combined="16" Cylinders="8" City="14" Highway="21" Year="2016" />
+  <Car Name="Genesis Coupe" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="3.8" Combined="19" Cylinders="6" City="16" Highway="25" Year="2016" />
+  <Car Name="Genesis Coupe" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="3.8" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="RC 200t" Manufacturer="LEXUS" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="RC 300 AWD" Manufacturer="LEXUS" Displacement="3.5" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="RC 350" Manufacturer="LEXUS" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="RC 350 AWD" Manufacturer="LEXUS" Displacement="3.5" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="RC F" Manufacturer="LEXUS" Displacement="5" Combined="19" Cylinders="8" City="16" Highway="25" Year="2016" />
+  <Car Name="GRANTURISMO" Manufacturer="MASERATI" Displacement="4.7" Combined="16" Cylinders="8" City="13" Highway="21" Year="2016" />
+  <Car Name="GRANTURISMO CONVERTIBLE" Manufacturer="MASERATI" Displacement="4.7" Combined="15" Cylinders="8" City="13" Highway="20" Year="2016" />
+  <Car Name="E 400 (convertible)" Manufacturer="Mercedes-Benz" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="E 400 (coupe)" Manufacturer="Mercedes-Benz" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="E 400 4MATIC (coupe)" Manufacturer="Mercedes-Benz" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="E 550 (convertible)" Manufacturer="Mercedes-Benz" Displacement="4.7" Combined="20" Cylinders="8" City="17" Highway="26" Year="2016" />
+  <Car Name="E 550 (coupe)" Manufacturer="Mercedes-Benz" Displacement="4.7" Combined="21" Cylinders="8" City="18" Highway="26" Year="2016" />
+  <Car Name="MINI COOPER HARDTOP 2 DOOR" Manufacturer="Mini" Displacement="1.5" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="MINI COOPER HARDTOP 2 DOOR" Manufacturer="Mini" Displacement="1.5" Combined="32" Cylinders="4" City="28" Highway="39" Year="2016" />
+  <Car Name="MINI COOPER HARDTOP 4 DOOR" Manufacturer="Mini" Displacement="1.5" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="MINI COOPER HARDTOP 4 DOOR" Manufacturer="Mini" Displacement="1.5" Combined="33" Cylinders="4" City="29" Highway="39" Year="2016" />
+  <Car Name="Mini Cooper S Hardtop 2 door" Manufacturer="Mini" Displacement="2" Combined="29" Cylinders="4" City="26" Highway="33" Year="2016" />
+  <Car Name="Mini Cooper S Hardtop 2 door" Manufacturer="Mini" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="33" Year="2016" />
+  <Car Name="Mini Cooper S Hardtop 4 door" Manufacturer="Mini" Displacement="2" Combined="29" Cylinders="4" City="26" Highway="33" Year="2016" />
+  <Car Name="Mini Cooper S Hardtop 4 door" Manufacturer="Mini" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="33" Year="2016" />
+  <Car Name="MINI John Cooper Works Hardtop" Manufacturer="Mini" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="31" Year="2016" />
+  <Car Name="MINI John Cooper Works Hardtop" Manufacturer="Mini" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="GT-R" Manufacturer="NISSAN" Displacement="3.8" Combined="19" Cylinders="6" City="16" Highway="22" Year="2016" />
+  <Car Name="Roush Stage 3 Mustang" Manufacturer="Roush" Displacement="5" Combined="16" Cylinders="8" City="13" Highway="23" Year="2016" />
+  <Car Name="Roush Stage 3 Mustang" Manufacturer="Roush" Displacement="5" Combined="16" Cylinders="8" City="12" Highway="23" Year="2016" />
+  <Car Name="iA" Manufacturer="SCION" Displacement="1.5" Combined="37" Cylinders="4" City="33" Highway="42" Year="2016" />
+  <Car Name="iA" Manufacturer="SCION" Displacement="1.5" Combined="35" Cylinders="4" City="31" Highway="41" Year="2016" />
+  <Car Name="Beetle Convertible" Manufacturer="Volkswagen" Displacement="1.8" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="Beetle Convertible" Manufacturer="Volkswagen" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="Beetle Convertible" Manufacturer="Volkswagen" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="Eos" Manufacturer="Volkswagen" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="30" Year="2016" />
+  <Car Name="ILX" Manufacturer="Acura" Displacement="2.4" Combined="29" Cylinders="4" City="25" Highway="36" Year="2016" />
+  <Car Name="TLX 2WD" Manufacturer="Acura" Displacement="2.4" Combined="28" Cylinders="4" City="24" Highway="35" Year="2016" />
+  <Car Name="TLX 2WD" Manufacturer="Acura" Displacement="3.5" Combined="25" Cylinders="6" City="21" Highway="34" Year="2016" />
+  <Car Name="TLX 4WD" Manufacturer="Acura" Displacement="3.5" Combined="25" Cylinders="6" City="21" Highway="31" Year="2016" />
+  <Car Name="A4" Manufacturer="Audi" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="A4 quattro" Manufacturer="Audi" Displacement="2" Combined="25" Cylinders="4" City="21" Highway="30" Year="2016" />
+  <Car Name="A4 quattro" Manufacturer="Audi" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="Q3" Manufacturer="Audi" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="29" Year="2016" />
+  <Car Name="Q3 quattro" Manufacturer="Audi" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="28" Year="2016" />
+  <Car Name="S4" Manufacturer="Audi" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="28" Year="2016" />
+  <Car Name="S4" Manufacturer="Audi" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="Continental GT" Manufacturer="Bentley" Displacement="4" Combined="19" Cylinders="8" City="15" Highway="25" Year="2016" />
+  <Car Name="Continental GT" Manufacturer="Bentley" Displacement="6" Combined="15" Cylinders="12" City="12" Highway="21" Year="2016" />
+  <Car Name="320i" Manufacturer="BMW" Displacement="2" Combined="28" Cylinders="4" City="24" Highway="36" Year="2016" />
+  <Car Name="320i" Manufacturer="BMW" Displacement="2" Combined="28" Cylinders="4" City="23" Highway="36" Year="2016" />
+  <Car Name="320i xDrive" Manufacturer="BMW" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="35" Year="2016" />
+  <Car Name="328d" Manufacturer="BMW" Displacement="2" Combined="36" Cylinders="4" City="32" Highway="42" Year="2016" />
+  <Car Name="328d xDrive" Manufacturer="BMW" Displacement="2" Combined="34" Cylinders="4" City="30" Highway="40" Year="2016" />
+  <Car Name="328i" Manufacturer="BMW" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="35" Year="2016" />
+  <Car Name="328i" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="328i xDrive" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="340i" Manufacturer="BMW" Displacement="3" Combined="26" Cylinders="6" City="22" Highway="33" Year="2016" />
+  <Car Name="340i" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="340i xDrive" Manufacturer="BMW" Displacement="3" Combined="26" Cylinders="6" City="22" Highway="33" Year="2016" />
+  <Car Name="340i xDrive" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="428i Coupe" Manufacturer="BMW" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="35" Year="2016" />
+  <Car Name="428i Coupe" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="428i Gran Coupe" Manufacturer="BMW" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="34" Year="2016" />
+  <Car Name="428i xDrive Coupe" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="428i xDrive Gran Coupe" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="435i Coupe" Manufacturer="BMW" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="31" Year="2016" />
+  <Car Name="435i Coupe" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="435i Gran Coupe" Manufacturer="BMW" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="31" Year="2016" />
+  <Car Name="435i xDrive Coupe" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="435i xDrive Coupe" Manufacturer="BMW" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="435i xDrive Gran Coupe" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="640i Gran Coupe" Manufacturer="BMW" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="31" Year="2016" />
+  <Car Name="640i xDrive Gran Coupe" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="650i Gran Coupe" Manufacturer="BMW" Displacement="4.4" Combined="20" Cylinders="8" City="17" Highway="25" Year="2016" />
+  <Car Name="650i xDrive Gran Coupe" Manufacturer="BMW" Displacement="4.4" Combined="18" Cylinders="8" City="15" Highway="24" Year="2016" />
+  <Car Name="Alpina B6 Gran Coupe xDrive" Manufacturer="BMW" Displacement="4.4" Combined="18" Cylinders="8" City="15" Highway="24" Year="2016" />
+  <Car Name="M3" Manufacturer="BMW" Displacement="3" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="M3" Manufacturer="BMW" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="M4 Coupe" Manufacturer="BMW" Displacement="3" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="M4 Coupe" Manufacturer="BMW" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="M6 Gran Coupe" Manufacturer="BMW" Displacement="4.4" Combined="16" Cylinders="8" City="14" Highway="20" Year="2016" />
+  <Car Name="M6 Gran Coupe" Manufacturer="BMW" Displacement="4.4" Combined="17" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="VERANO" Manufacturer="Buick" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="30" Year="2016" />
+  <Car Name="VERANO" Manufacturer="Buick" Displacement="2" Combined="24" Cylinders="4" City="20" Highway="31" Year="2016" />
+  <Car Name="VERANO" Manufacturer="Buick" Displacement="2.4" Combined="25" Cylinders="4" City="21" Highway="32" Year="2016" />
+  <Car Name="ATS" Manufacturer="Cadillac" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="ATS" Manufacturer="Cadillac" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="29" Year="2016" />
+  <Car Name="ATS" Manufacturer="Cadillac" Displacement="2.5" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="ATS" Manufacturer="Cadillac" Displacement="3.6" Combined="24" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="ATS AWD" Manufacturer="Cadillac" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="30" Year="2016" />
+  <Car Name="ATS AWD" Manufacturer="Cadillac" Displacement="3.6" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="ATS-V" Manufacturer="Cadillac" Displacement="3.6" Combined="19" Cylinders="6" City="16" Highway="24" Year="2016" />
+  <Car Name="ATS-V" Manufacturer="Cadillac" Displacement="3.6" Combined="19" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="CAMARO" Manufacturer="Chevrolet" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="CAMARO" Manufacturer="Chevrolet" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="30" Year="2016" />
+  <Car Name="CAMARO" Manufacturer="Chevrolet" Displacement="3.6" Combined="23" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="CAMARO" Manufacturer="Chevrolet" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="CAMARO" Manufacturer="Chevrolet" Displacement="6.2" Combined="20" Cylinders="8" City="17" Highway="28" Year="2016" />
+  <Car Name="CAMARO" Manufacturer="Chevrolet" Displacement="6.2" Combined="19" Cylinders="8" City="16" Highway="25" Year="2016" />
+  <Car Name="CRUZE" Manufacturer="Chevrolet" Displacement="1.4" Combined="35" Cylinders="4" City="30" Highway="42" Year="2016" />
+  <Car Name="CRUZE" Manufacturer="Chevrolet" Displacement="1.4" Combined="33" Cylinders="4" City="29" Highway="41" Year="2016" />
+  <Car Name="CRUZE PREMIER" Manufacturer="Chevrolet" Displacement="1.4" Combined="34" Cylinders="4" City="30" Highway="40" Year="2016" />
+  <Car Name="SONIC" Manufacturer="Chevrolet" Displacement="1.4" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="SONIC" Manufacturer="Chevrolet" Displacement="1.4" Combined="33" Cylinders="4" City="29" Highway="40" Year="2016" />
+  <Car Name="SONIC" Manufacturer="Chevrolet" Displacement="1.8" Combined="28" Cylinders="4" City="24" Highway="35" Year="2016" />
+  <Car Name="SONIC" Manufacturer="Chevrolet" Displacement="1.8" Combined="30" Cylinders="4" City="26" Highway="35" Year="2016" />
+  <Car Name="SONIC RS" Manufacturer="Chevrolet" Displacement="1.4" Combined="28" Cylinders="4" City="25" Highway="33" Year="2016" />
+  <Car Name="SONIC RS" Manufacturer="Chevrolet" Displacement="1.4" Combined="30" Cylinders="4" City="27" Highway="34" Year="2016" />
+  <Car Name="Fiesta ST FWD" Manufacturer="Ford" Displacement="1.6" Combined="29" Cylinders="4" City="26" Highway="33" Year="2016" />
+  <Car Name="FOCUS FWD" Manufacturer="Ford" Displacement="1" Combined="32" Cylinders="3" City="28" Highway="40" Year="2016" />
+  <Car Name="FOCUS FWD" Manufacturer="Ford" Displacement="1" Combined="35" Cylinders="3" City="30" Highway="42" Year="2016" />
+  <Car Name="FOCUS FWD" Manufacturer="Ford" Displacement="2" Combined="31" Cylinders="4" City="27" Highway="40" Year="2016" />
+  <Car Name="FOCUS FWD" Manufacturer="Ford" Displacement="2" Combined="30" Cylinders="4" City="26" Highway="38" Year="2016" />
+  <Car Name="FOCUS FWD" Manufacturer="Ford" Displacement="2" Combined="30" Cylinders="4" City="26" Highway="36" Year="2016" />
+  <Car Name="Focus FWD FFV" Manufacturer="Ford" Displacement="2" Combined="31" Cylinders="4" City="27" Highway="40" Year="2016" />
+  <Car Name="Focus FWD FFV" Manufacturer="Ford" Displacement="2" Combined="30" Cylinders="4" City="26" Highway="38" Year="2016" />
+  <Car Name="Focus FWD FFV" Manufacturer="Ford" Displacement="2" Combined="30" Cylinders="4" City="26" Highway="36" Year="2016" />
+  <Car Name="CIVIC 2Dr" Manufacturer="Honda" Displacement="1.5" Combined="35" Cylinders="4" City="31" Highway="41" Year="2016" />
+  <Car Name="CIVIC 2Dr" Manufacturer="Honda" Displacement="2" Combined="34" Cylinders="4" City="30" Highway="41" Year="2016" />
+  <Car Name="CIVIC 2Dr" Manufacturer="Honda" Displacement="2" Combined="31" Cylinders="4" City="26" Highway="38" Year="2016" />
+  <Car Name="Accent" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="30" Cylinders="4" City="26" Highway="37" Year="2016" />
+  <Car Name="Accent" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="31" Cylinders="4" City="27" Highway="38" Year="2016" />
+  <Car Name="Veloster" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="29" Cylinders="4" City="27" Highway="33" Year="2016" />
+  <Car Name="Veloster" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="31" Cylinders="4" City="28" Highway="36" Year="2016" />
+  <Car Name="Veloster" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="28" Cylinders="4" City="25" Highway="33" Year="2016" />
+  <Car Name="Veloster" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="30" Cylinders="4" City="27" Highway="35" Year="2016" />
+  <Car Name="Q50 HYBRID" Manufacturer="INFINITI" Displacement="3.5" Combined="30" Cylinders="6" City="28" Highway="34" Year="2016" />
+  <Car Name="Q50 HYBRID AWD" Manufacturer="INFINITI" Displacement="3.5" Combined="28" Cylinders="6" City="27" Highway="31" Year="2016" />
+  <Car Name="Forte Koup" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.6" Combined="25" Cylinders="4" City="22" Highway="30" Year="2016" />
+  <Car Name="Forte Koup" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.6" Combined="25" Cylinders="4" City="22" Highway="29" Year="2016" />
+  <Car Name="Forte Koup" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="Forte Koup" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="33" Year="2016" />
+  <Car Name="Rio" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.6" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="Rio" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.6" Combined="31" Cylinders="4" City="27" Highway="38" Year="2016" />
+  <Car Name="Rio ECO" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.6" Combined="31" Cylinders="4" City="28" Highway="37" Year="2016" />
+  <Car Name="CT 200h" Manufacturer="LEXUS" Displacement="1.8" Combined="42" Cylinders="4" City="43" Highway="40" Year="2016" />
+  <Car Name="GS F" Manufacturer="LEXUS" Displacement="5" Combined="19" Cylinders="8" City="16" Highway="24" Year="2016" />
+  <Car Name="IS 200t" Manufacturer="LEXUS" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="33" Year="2016" />
+  <Car Name="IS 300 AWD" Manufacturer="LEXUS" Displacement="3.5" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="IS 350" Manufacturer="LEXUS" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="IS 350 AWD" Manufacturer="LEXUS" Displacement="3.5" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="CX-3 2WD" Manufacturer="MAZDA" Displacement="2" Combined="31" Cylinders="4" City="29" Highway="35" Year="2016" />
+  <Car Name="CX-3 4WD" Manufacturer="MAZDA" Displacement="2" Combined="29" Cylinders="4" City="27" Highway="32" Year="2016" />
+  <Car Name="MAZDA 2" Manufacturer="MAZDA" Displacement="1.5" Combined="37" Cylinders="4" City="33" Highway="43" Year="2016" />
+  <Car Name="MAZDA 2" Manufacturer="MAZDA" Displacement="1.5" Combined="35" Cylinders="4" City="31" Highway="42" Year="2016" />
+  <Car Name="MAZDA3 4-Door" Manufacturer="MAZDA" Displacement="2" Combined="34" Cylinders="4" City="30" Highway="41" Year="2016" />
+  <Car Name="MAZDA3 4-Door" Manufacturer="MAZDA" Displacement="2" Combined="33" Cylinders="4" City="29" Highway="41" Year="2016" />
+  <Car Name="MAZDA3 4-Door" Manufacturer="MAZDA" Displacement="2.5" Combined="33" Cylinders="4" City="29" Highway="40" Year="2016" />
+  <Car Name="MAZDA3 4-Door" Manufacturer="MAZDA" Displacement="2.5" Combined="32" Cylinders="4" City="28" Highway="39" Year="2016" />
+  <Car Name="MAZDA3 4-Door" Manufacturer="MAZDA" Displacement="2.5" Combined="29" Cylinders="4" City="25" Highway="37" Year="2016" />
+  <Car Name="AMG C 63" Manufacturer="Mercedes-Benz" Displacement="4" Combined="20" Cylinders="8" City="18" Highway="25" Year="2016" />
+  <Car Name="AMG C 63 S" Manufacturer="Mercedes-Benz" Displacement="4" Combined="20" Cylinders="8" City="18" Highway="25" Year="2016" />
+  <Car Name="AMG CLA 45 4MATIC" Manufacturer="Mercedes-Benz" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="AMG CLS 63 S 4MATIC" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="AMG S 63 4MATIC (coupe)" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="18" Cylinders="8" City="15" Highway="23" Year="2016" />
+  <Car Name="AMG S 65 (coupe)" Manufacturer="Mercedes-Benz" Displacement="6" Combined="15" Cylinders="12" City="13" Highway="20" Year="2016" />
+  <Car Name="C 300" Manufacturer="Mercedes-Benz" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="C 300 4MATIC" Manufacturer="Mercedes-Benz" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="C 450 AMG" Manufacturer="Mercedes-Benz" Displacement="3" Combined="24" Cylinders="6" City="21" Highway="29" Year="2016" />
+  <Car Name="CLA 250" Manufacturer="Mercedes-Benz" Displacement="2" Combined="30" Cylinders="4" City="26" Highway="38" Year="2016" />
+  <Car Name="CLA 250 4MATIC" Manufacturer="Mercedes-Benz" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="33" Year="2016" />
+  <Car Name="CLA 250 4MATIC" Manufacturer="Mercedes-Benz" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="33" Year="2016" />
+  <Car Name="CLS 400" Manufacturer="Mercedes-Benz" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="CLS 400 4MATIC" Manufacturer="Mercedes-Benz" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="CLS 550" Manufacturer="Mercedes-Benz" Displacement="4.7" Combined="21" Cylinders="8" City="17" Highway="26" Year="2016" />
+  <Car Name="CLS 550 4MATIC" Manufacturer="Mercedes-Benz" Displacement="4.7" Combined="20" Cylinders="8" City="17" Highway="25" Year="2016" />
+  <Car Name="S 550 4MATIC (coupe)" Manufacturer="Mercedes-Benz" Displacement="4.7" Combined="19" Cylinders="8" City="16" Highway="24" Year="2016" />
+  <Car Name="Mini Cooper Countryman" Manufacturer="Mini" Displacement="1.6" Combined="27" Cylinders="4" City="25" Highway="30" Year="2016" />
+  <Car Name="Mini Cooper Countryman" Manufacturer="Mini" Displacement="1.6" Combined="29" Cylinders="4" City="27" Highway="32" Year="2016" />
+  <Car Name="Mini Cooper Paceman" Manufacturer="Mini" Displacement="1.6" Combined="27" Cylinders="4" City="25" Highway="30" Year="2016" />
+  <Car Name="Mini Cooper Paceman" Manufacturer="Mini" Displacement="1.6" Combined="29" Cylinders="4" City="27" Highway="32" Year="2016" />
+  <Car Name="Mini Cooper S Countryman" Manufacturer="Mini" Displacement="1.6" Combined="28" Cylinders="4" City="25" Highway="32" Year="2016" />
+  <Car Name="Mini Cooper S Countryman" Manufacturer="Mini" Displacement="1.6" Combined="29" Cylinders="4" City="26" Highway="32" Year="2016" />
+  <Car Name="Mini Cooper S Countryman All4" Manufacturer="Mini" Displacement="1.6" Combined="26" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="Mini Cooper S Countryman All4" Manufacturer="Mini" Displacement="1.6" Combined="27" Cylinders="4" City="25" Highway="31" Year="2016" />
+  <Car Name="Mini Cooper S Paceman" Manufacturer="Mini" Displacement="1.6" Combined="28" Cylinders="4" City="25" Highway="32" Year="2016" />
+  <Car Name="Mini Cooper S Paceman" Manufacturer="Mini" Displacement="1.6" Combined="29" Cylinders="4" City="26" Highway="32" Year="2016" />
+  <Car Name="Mini Cooper S Paceman ALL4" Manufacturer="Mini" Displacement="1.6" Combined="26" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="Mini Cooper S Paceman ALL4" Manufacturer="Mini" Displacement="1.6" Combined="27" Cylinders="4" City="25" Highway="31" Year="2016" />
+  <Car Name="Mini JCW Countryman ALL4" Manufacturer="Mini" Displacement="1.6" Combined="26" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="Mini JCW Countryman ALL4" Manufacturer="Mini" Displacement="1.6" Combined="27" Cylinders="4" City="25" Highway="31" Year="2016" />
+  <Car Name="Mini JCW Paceman ALL4" Manufacturer="Mini" Displacement="1.6" Combined="26" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="Mini JCW Paceman ALL4" Manufacturer="Mini" Displacement="1.6" Combined="27" Cylinders="4" City="25" Highway="31" Year="2016" />
+  <Car Name="LANCER" Manufacturer="Mitsubishi Motors Corporation" Displacement="2" Combined="30" Cylinders="4" City="27" Highway="35" Year="2016" />
+  <Car Name="LANCER" Manufacturer="Mitsubishi Motors Corporation" Displacement="2" Combined="28" Cylinders="4" City="24" Highway="34" Year="2016" />
+  <Car Name="LANCER" Manufacturer="Mitsubishi Motors Corporation" Displacement="2.4" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="LANCER" Manufacturer="Mitsubishi Motors Corporation" Displacement="2.4" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="LANCER 4WD" Manufacturer="Mitsubishi Motors Corporation" Displacement="2.4" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="VERSA" Manufacturer="NISSAN" Displacement="1.6" Combined="30" Cylinders="4" City="26" Highway="35" Year="2016" />
+  <Car Name="VERSA" Manufacturer="NISSAN" Displacement="1.6" Combined="35" Cylinders="4" City="31" Highway="40" Year="2016" />
+  <Car Name="VERSA" Manufacturer="NISSAN" Displacement="1.6" Combined="30" Cylinders="4" City="27" Highway="36" Year="2016" />
+  <Car Name="Dawn" Manufacturer="Rolls-Royce Motor Cars Limited" Displacement="6.6" Combined="14" Cylinders="12" City="12" Highway="19" Year="2016" />
+  <Car Name="Phantom Coupe" Manufacturer="Rolls-Royce Motor Cars Limited" Displacement="6.7" Combined="14" Cylinders="12" City="11" Highway="19" Year="2016" />
+  <Car Name="Phantom Drophead Coupe" Manufacturer="Rolls-Royce Motor Cars Limited" Displacement="6.7" Combined="14" Cylinders="12" City="11" Highway="19" Year="2016" />
+  <Car Name="tC" Manufacturer="SCION" Displacement="2.5" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="tC" Manufacturer="SCION" Displacement="2.5" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="IMPREZA" Manufacturer="Subaru" Displacement="2" Combined="31" Cylinders="4" City="28" Highway="37" Year="2016" />
+  <Car Name="IMPREZA" Manufacturer="Subaru" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="WRX" Manufacturer="Subaru" Displacement="2" Combined="21" Cylinders="4" City="18" Highway="24" Year="2016" />
+  <Car Name="WRX" Manufacturer="Subaru" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="27" Year="2016" />
+  <Car Name="WRX" Manufacturer="Subaru" Displacement="2.5" Combined="19" Cylinders="4" City="17" Highway="23" Year="2016" />
+  <Car Name="PRIUS c" Manufacturer="TOYOTA" Displacement="1.5" Combined="50" Cylinders="4" City="53" Highway="46" Year="2016" />
+  <Car Name="YARIS" Manufacturer="TOYOTA" Displacement="1.5" Combined="32" Cylinders="4" City="30" Highway="36" Year="2016" />
+  <Car Name="YARIS" Manufacturer="TOYOTA" Displacement="1.5" Combined="33" Cylinders="4" City="30" Highway="37" Year="2016" />
+  <Car Name="Beetle" Manufacturer="Volkswagen" Displacement="1.8" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="Beetle" Manufacturer="Volkswagen" Displacement="1.8" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="Beetle" Manufacturer="Volkswagen" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="Beetle" Manufacturer="Volkswagen" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="Beetle Dune" Manufacturer="Volkswagen" Displacement="1.8" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="CC" Manufacturer="Volkswagen" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="CC" Manufacturer="Volkswagen" Displacement="2" Combined="25" Cylinders="4" City="21" Highway="32" Year="2016" />
+  <Car Name="CC 4Motion" Manufacturer="Volkswagen" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="25" Year="2016" />
+  <Car Name="Golf" Manufacturer="Volkswagen" Displacement="1.8" Combined="29" Cylinders="4" City="25" Highway="36" Year="2016" />
+  <Car Name="Golf" Manufacturer="Volkswagen" Displacement="1.8" Combined="30" Cylinders="4" City="25" Highway="37" Year="2016" />
+  <Car Name="Golf R" Manufacturer="Volkswagen" Displacement="2" Combined="25" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="Golf R" Manufacturer="Volkswagen" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="GTI" Manufacturer="Volkswagen" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="33" Year="2016" />
+  <Car Name="GTI" Manufacturer="Volkswagen" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="Jetta" Manufacturer="Volkswagen" Displacement="1.4" Combined="32" Cylinders="4" City="28" Highway="39" Year="2016" />
+  <Car Name="Jetta" Manufacturer="Volkswagen" Displacement="1.4" Combined="33" Cylinders="4" City="28" Highway="40" Year="2016" />
+  <Car Name="Jetta" Manufacturer="Volkswagen" Displacement="1.8" Combined="29" Cylinders="4" City="25" Highway="36" Year="2016" />
+  <Car Name="Jetta" Manufacturer="Volkswagen" Displacement="1.8" Combined="29" Cylinders="4" City="25" Highway="37" Year="2016" />
+  <Car Name="Jetta" Manufacturer="Volkswagen" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="33" Year="2016" />
+  <Car Name="Jetta" Manufacturer="Volkswagen" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="33" Year="2016" />
+  <Car Name="Jetta Hybrid" Manufacturer="Volkswagen" Displacement="1.4" Combined="44" Cylinders="4" City="42" Highway="48" Year="2016" />
+  <Car Name="S60 AWD" Manufacturer="Volvo" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="S60 AWD" Manufacturer="Volvo" Displacement="2.5" Combined="23" Cylinders="5" City="20" Highway="29" Year="2016" />
+  <Car Name="S60 AWD" Manufacturer="Volvo" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="S60 CC AWD" Manufacturer="Volvo" Displacement="2.5" Combined="23" Cylinders="5" City="20" Highway="28" Year="2016" />
+  <Car Name="S60 FWD" Manufacturer="Volvo" Displacement="2" Combined="30" Cylinders="4" City="26" Highway="38" Year="2016" />
+  <Car Name="S60 FWD" Manufacturer="Volvo" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="33" Year="2016" />
+  <Car Name="S60 Inscription AWD" Manufacturer="Volvo" Displacement="2.5" Combined="23" Cylinders="5" City="20" Highway="29" Year="2016" />
+  <Car Name="S60 Inscription FWD" Manufacturer="Volvo" Displacement="2" Combined="29" Cylinders="4" City="25" Highway="37" Year="2016" />
+  <Car Name="S60 Polestar AWD" Manufacturer="Volvo" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="RLX" Manufacturer="Acura" Displacement="3.5" Combined="30" Cylinders="6" City="28" Highway="32" Year="2016" />
+  <Car Name="RLX" Manufacturer="Acura" Displacement="3.5" Combined="24" Cylinders="6" City="20" Highway="31" Year="2016" />
+  <Car Name="A6" Manufacturer="Audi" Displacement="2" Combined="28" Cylinders="4" City="24" Highway="35" Year="2016" />
+  <Car Name="A6 quattro" Manufacturer="Audi" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="A6 quattro" Manufacturer="Audi" Displacement="3" Combined="30" Cylinders="6" City="25" Highway="38" Year="2016" />
+  <Car Name="A6 quattro" Manufacturer="Audi" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="A7 quattro" Manufacturer="Audi" Displacement="3" Combined="30" Cylinders="6" City="25" Highway="38" Year="2016" />
+  <Car Name="A7 quattro" Manufacturer="Audi" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="RS7" Manufacturer="Audi" Displacement="4" Combined="18" Cylinders="8" City="15" Highway="25" Year="2016" />
+  <Car Name="S6" Manufacturer="Audi" Displacement="4" Combined="21" Cylinders="8" City="18" Highway="27" Year="2016" />
+  <Car Name="S7" Manufacturer="Audi" Displacement="4" Combined="21" Cylinders="8" City="17" Highway="27" Year="2016" />
+  <Car Name="S8" Manufacturer="Audi" Displacement="4" Combined="19" Cylinders="8" City="15" Highway="25" Year="2016" />
+  <Car Name="Flying Spur" Manufacturer="Bentley" Displacement="4" Combined="17" Cylinders="8" City="14" Highway="24" Year="2016" />
+  <Car Name="Flying Spur" Manufacturer="Bentley" Displacement="6" Combined="15" Cylinders="12" City="12" Highway="20" Year="2016" />
+  <Car Name="Mulsanne" Manufacturer="Bentley" Displacement="6.8" Combined="13" Cylinders="8" City="11" Highway="18" Year="2016" />
+  <Car Name="528i" Manufacturer="BMW" Displacement="2" Combined="27" Cylinders="4" City="23" Highway="34" Year="2016" />
+  <Car Name="528i xDrive" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="535d" Manufacturer="BMW" Displacement="3" Combined="30" Cylinders="6" City="26" Highway="38" Year="2016" />
+  <Car Name="535d xDrive" Manufacturer="BMW" Displacement="3" Combined="30" Cylinders="6" City="26" Highway="37" Year="2016" />
+  <Car Name="535i" Manufacturer="BMW" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="31" Year="2016" />
+  <Car Name="535i xDrive" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="550i" Manufacturer="BMW" Displacement="4.4" Combined="20" Cylinders="8" City="17" Highway="25" Year="2016" />
+  <Car Name="550i xDrive" Manufacturer="BMW" Displacement="4.4" Combined="19" Cylinders="8" City="16" Highway="25" Year="2016" />
+  <Car Name="ActiveHybrid 5" Manufacturer="BMW" Displacement="3" Combined="26" Cylinders="6" City="23" Highway="30" Year="2016" />
+  <Car Name="M5" Manufacturer="BMW" Displacement="4.4" Combined="16" Cylinders="8" City="14" Highway="20" Year="2016" />
+  <Car Name="M5" Manufacturer="BMW" Displacement="4.4" Combined="17" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="LACROSSE" Manufacturer="Buick" Displacement="2.4" Combined="29" Cylinders="4" City="25" Highway="36" Year="2016" />
+  <Car Name="LACROSSE" Manufacturer="Buick" Displacement="3.6" Combined="22" Cylinders="6" City="18" Highway="28" Year="2016" />
+  <Car Name="LACROSSE" Manufacturer="Buick" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="28" Year="2016" />
+  <Car Name="LACROSSE AWD" Manufacturer="Buick" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="REGAL" Manufacturer="Buick" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="30" Year="2016" />
+  <Car Name="REGAL" Manufacturer="Buick" Displacement="2" Combined="24" Cylinders="4" City="20" Highway="31" Year="2016" />
+  <Car Name="REGAL" Manufacturer="Buick" Displacement="2.4" Combined="29" Cylinders="4" City="25" Highway="36" Year="2016" />
+  <Car Name="REGAL" Manufacturer="Buick" Displacement="2.4" Combined="23" Cylinders="4" City="19" Highway="31" Year="2016" />
+  <Car Name="REGAL AWD" Manufacturer="Buick" Displacement="2" Combined="22" Cylinders="4" City="19" Highway="27" Year="2016" />
+  <Car Name="CTS SEDAN" Manufacturer="Cadillac" Displacement="2" Combined="25" Cylinders="4" City="21" Highway="31" Year="2016" />
+  <Car Name="CTS SEDAN" Manufacturer="Cadillac" Displacement="3.6" Combined="24" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="CTS SEDAN" Manufacturer="Cadillac" Displacement="3.6" Combined="19" Cylinders="6" City="16" Highway="24" Year="2016" />
+  <Car Name="CTS SEDAN AWD" Manufacturer="Cadillac" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="29" Year="2016" />
+  <Car Name="CTS SEDAN AWD" Manufacturer="Cadillac" Displacement="3.6" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="CTS-V" Manufacturer="Cadillac" Displacement="6.2" Combined="17" Cylinders="8" City="14" Highway="21" Year="2016" />
+  <Car Name="CRUZE LIMITED" Manufacturer="Chevrolet" Displacement="1.4" Combined="30" Cylinders="4" City="26" Highway="38" Year="2016" />
+  <Car Name="CRUZE LIMITED" Manufacturer="Chevrolet" Displacement="1.4" Combined="30" Cylinders="4" City="26" Highway="38" Year="2016" />
+  <Car Name="CRUZE LIMITED" Manufacturer="Chevrolet" Displacement="1.8" Combined="27" Cylinders="4" City="22" Highway="35" Year="2016" />
+  <Car Name="CRUZE LIMITED" Manufacturer="Chevrolet" Displacement="1.8" Combined="29" Cylinders="4" City="25" Highway="36" Year="2016" />
+  <Car Name="CRUZE LIMITED ECO" Manufacturer="Chevrolet" Displacement="1.4" Combined="31" Cylinders="4" City="26" Highway="39" Year="2016" />
+  <Car Name="CRUZE LIMITED ECO" Manufacturer="Chevrolet" Displacement="1.4" Combined="33" Cylinders="4" City="28" Highway="42" Year="2016" />
+  <Car Name="Impala Bi-Fuel (CNG)" Manufacturer="Chevrolet" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="25" Year="2016" />
+  <Car Name="MALIBU" Manufacturer="Chevrolet" Displacement="1.5" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="MALIBU" Manufacturer="Chevrolet" Displacement="1.8" Combined="46" Cylinders="4" City="47" Highway="46" Year="2016" />
+  <Car Name="MALIBU" Manufacturer="Chevrolet" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="33" Year="2016" />
+  <Car Name="MALIBU LIMITED" Manufacturer="Chevrolet" Displacement="2.5" Combined="27" Cylinders="4" City="24" Highway="34" Year="2016" />
+  <Car Name="SONIC 5 RS" Manufacturer="Chevrolet" Displacement="1.4" Combined="28" Cylinders="4" City="25" Highway="33" Year="2016" />
+  <Car Name="SONIC 5 RS" Manufacturer="Chevrolet" Displacement="1.4" Combined="30" Cylinders="4" City="27" Highway="34" Year="2016" />
+  <Car Name="200" Manufacturer="Chrysler" Displacement="2.4" Combined="28" Cylinders="4" City="23" Highway="36" Year="2016" />
+  <Car Name="200" Manufacturer="Chrysler" Displacement="2.4" Combined="28" Cylinders="4" City="23" Highway="36" Year="2016" />
+  <Car Name="200" Manufacturer="Chrysler" Displacement="3.6" Combined="23" Cylinders="6" City="19" Highway="32" Year="2016" />
+  <Car Name="200 AWD" Manufacturer="Chrysler" Displacement="3.6" Combined="22" Cylinders="6" City="18" Highway="29" Year="2016" />
+  <Car Name="Challenger" Manufacturer="Dodge" Displacement="3.6" Combined="23" Cylinders="6" City="19" Highway="30" Year="2016" />
+  <Car Name="Challenger" Manufacturer="Dodge" Displacement="5.7" Combined="19" Cylinders="8" City="16" Highway="25" Year="2016" />
+  <Car Name="Challenger" Manufacturer="Dodge" Displacement="5.7" Combined="18" Cylinders="8" City="15" Highway="23" Year="2016" />
+  <Car Name="Challenger" Manufacturer="Dodge" Displacement="6.4" Combined="18" Cylinders="8" City="15" Highway="25" Year="2016" />
+  <Car Name="Challenger" Manufacturer="Dodge" Displacement="6.4" Combined="17" Cylinders="8" City="14" Highway="23" Year="2016" />
+  <Car Name="Challenger SRT8" Manufacturer="Dodge" Displacement="6.2" Combined="16" Cylinders="8" City="13" Highway="22" Year="2016" />
+  <Car Name="Challenger SRT8" Manufacturer="Dodge" Displacement="6.2" Combined="16" Cylinders="8" City="13" Highway="21" Year="2016" />
+  <Car Name="Challenger SRT8" Manufacturer="Dodge" Displacement="6.4" Combined="18" Cylinders="8" City="15" Highway="25" Year="2016" />
+  <Car Name="Challenger SRT8" Manufacturer="Dodge" Displacement="6.4" Combined="17" Cylinders="8" City="14" Highway="23" Year="2016" />
+  <Car Name="Dart" Manufacturer="Dodge" Displacement="1.4" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="Dart" Manufacturer="Dodge" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="34" Year="2016" />
+  <Car Name="Dart" Manufacturer="Dodge" Displacement="2" Combined="29" Cylinders="4" City="25" Highway="36" Year="2016" />
+  <Car Name="Dart" Manufacturer="Dodge" Displacement="2.4" Combined="27" Cylinders="4" City="23" Highway="35" Year="2016" />
+  <Car Name="Dart" Manufacturer="Dodge" Displacement="2.4" Combined="27" Cylinders="4" City="22" Highway="35" Year="2016" />
+  <Car Name="Dart Aero" Manufacturer="Dodge" Displacement="1.4" Combined="32" Cylinders="4" City="28" Highway="40" Year="2016" />
+  <Car Name="Dart Aero" Manufacturer="Dodge" Displacement="1.4" Combined="32" Cylinders="4" City="28" Highway="41" Year="2016" />
+  <Car Name="Dart GT" Manufacturer="Dodge" Displacement="2.4" Combined="26" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="Dart GT" Manufacturer="Dodge" Displacement="2.4" Combined="27" Cylinders="4" City="23" Highway="33" Year="2016" />
+  <Car Name="FF" Manufacturer="Ferrari" Displacement="6.3" Combined="13" Cylinders="12" City="11" Highway="17" Year="2016" />
+  <Car Name="FF" Manufacturer="Ferrari" Displacement="6.3" Combined="13" Cylinders="12" City="11" Highway="16" Year="2016" />
+  <Car Name="FOCUS RS AWD" Manufacturer="Ford" Displacement="2.3" Combined="22" Cylinders="4" City="19" Highway="25" Year="2016" />
+  <Car Name="Focus ST FWD" Manufacturer="Ford" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="FUSION AWD" Manufacturer="Ford" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="FUSION FWD" Manufacturer="Ford" Displacement="1.5" Combined="28" Cylinders="4" City="24" Highway="36" Year="2016" />
+  <Car Name="FUSION FWD" Manufacturer="Ford" Displacement="1.5" Combined="29" Cylinders="4" City="25" Highway="37" Year="2016" />
+  <Car Name="FUSION FWD" Manufacturer="Ford" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="33" Year="2016" />
+  <Car Name="FUSION FWD" Manufacturer="Ford" Displacement="2.5" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="FUSION HYBRID FWD" Manufacturer="Ford" Displacement="2" Combined="42" Cylinders="4" City="44" Highway="41" Year="2016" />
+  <Car Name="ACCORD" Manufacturer="Honda" Displacement="2.4" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="ACCORD" Manufacturer="Honda" Displacement="2.4" Combined="30" Cylinders="4" City="26" Highway="35" Year="2016" />
+  <Car Name="ACCORD" Manufacturer="Honda" Displacement="2.4" Combined="27" Cylinders="4" City="23" Highway="34" Year="2016" />
+  <Car Name="ACCORD" Manufacturer="Honda" Displacement="3.5" Combined="26" Cylinders="6" City="21" Highway="34" Year="2016" />
+  <Car Name="ACCORD" Manufacturer="Honda" Displacement="3.5" Combined="25" Cylinders="6" City="21" Highway="32" Year="2016" />
+  <Car Name="ACCORD" Manufacturer="Honda" Displacement="3.5" Combined="22" Cylinders="6" City="18" Highway="28" Year="2016" />
+  <Car Name="CIVIC 4Dr" Manufacturer="Honda" Displacement="1.5" Combined="35" Cylinders="4" City="31" Highway="42" Year="2016" />
+  <Car Name="CIVIC 4Dr" Manufacturer="Honda" Displacement="2" Combined="35" Cylinders="4" City="31" Highway="41" Year="2016" />
+  <Car Name="CIVIC 4Dr" Manufacturer="Honda" Displacement="2" Combined="31" Cylinders="4" City="27" Highway="40" Year="2016" />
+  <Car Name="Elantra" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.8" Combined="32" Cylinders="4" City="28" Highway="38" Year="2016" />
+  <Car Name="Elantra" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.8" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="Elantra" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="28" Cylinders="4" City="24" Highway="35" Year="2016" />
+  <Car Name="Elantra" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="28" Cylinders="4" City="24" Highway="34" Year="2016" />
+  <Car Name="Elantra GT" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="33" Year="2016" />
+  <Car Name="Elantra GT" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="33" Year="2016" />
+  <Car Name="Elantra Limited" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.8" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="Sonata HYBRID" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="41" Cylinders="4" City="39" Highway="43" Year="2016" />
+  <Car Name="Sonata HYBRID SE" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="42" Cylinders="4" City="40" Highway="44" Year="2016" />
+  <Car Name="Q50" Manufacturer="INFINITI" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="Q50" Manufacturer="INFINITI" Displacement="3" Combined="23" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="Q50 AWD" Manufacturer="INFINITI" Displacement="2" Combined="24" Cylinders="4" City="22" Highway="28" Year="2016" />
+  <Car Name="Q50 AWD" Manufacturer="INFINITI" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="Q50S" Manufacturer="INFINITI" Displacement="3" Combined="23" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="Q50S AWD" Manufacturer="INFINITI" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="Q50S AWD Red Sport" Manufacturer="INFINITI" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="Q50S Red Sport" Manufacturer="INFINITI" Displacement="3" Combined="22" Cylinders="6" City="20" Highway="26" Year="2016" />
+  <Car Name="Q70" Manufacturer="INFINITI" Displacement="3.7" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="Q70" Manufacturer="INFINITI" Displacement="5.6" Combined="19" Cylinders="8" City="16" Highway="24" Year="2016" />
+  <Car Name="Q70 AWD" Manufacturer="INFINITI" Displacement="3.7" Combined="20" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="Q70 AWD" Manufacturer="INFINITI" Displacement="5.6" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="Q70 HYBRID" Manufacturer="INFINITI" Displacement="3.5" Combined="31" Cylinders="6" City="29" Highway="34" Year="2016" />
+  <Car Name="XF" Manufacturer="Jaguar" Displacement="3" Combined="24" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="XF AWD" Manufacturer="Jaguar" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="Forte" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.8" Combined="31" Cylinders="4" City="26" Highway="39" Year="2016" />
+  <Car Name="Forte" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.8" Combined="30" Cylinders="4" City="25" Highway="37" Year="2016" />
+  <Car Name="Forte" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="28" Cylinders="4" City="24" Highway="35" Year="2016" />
+  <Car Name="Optima HYBRID" Manufacturer="KIA MOTORS CORPORATION" Displacement="2.4" Combined="38" Cylinders="4" City="36" Highway="40" Year="2016" />
+  <Car Name="Optima HYBRID EX" Manufacturer="KIA MOTORS CORPORATION" Displacement="2.4" Combined="37" Cylinders="4" City="35" Highway="39" Year="2016" />
+  <Car Name="ES 300h" Manufacturer="LEXUS" Displacement="2.5" Combined="40" Cylinders="4" City="40" Highway="39" Year="2016" />
+  <Car Name="ES 350" Manufacturer="LEXUS" Displacement="3.5" Combined="24" Cylinders="6" City="21" Highway="31" Year="2016" />
+  <Car Name="GS 200t" Manufacturer="LEXUS" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="33" Year="2016" />
+  <Car Name="GS 200t F SPORT" Manufacturer="LEXUS" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="30" Year="2016" />
+  <Car Name="GS 350" Manufacturer="LEXUS" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="GS 350 AWD" Manufacturer="LEXUS" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="GS 350 F SPORT" Manufacturer="LEXUS" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="GS 450h" Manufacturer="LEXUS" Displacement="3.5" Combined="31" Cylinders="6" City="29" Highway="34" Year="2016" />
+  <Car Name="LS 460" Manufacturer="LEXUS" Displacement="4.6" Combined="19" Cylinders="8" City="16" Highway="24" Year="2016" />
+  <Car Name="LS 460 AWD" Manufacturer="LEXUS" Displacement="4.6" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="LS 460 L" Manufacturer="LEXUS" Displacement="4.6" Combined="19" Cylinders="8" City="16" Highway="24" Year="2016" />
+  <Car Name="LS 460 L AWD" Manufacturer="LEXUS" Displacement="4.6" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="LS 600h L" Manufacturer="LEXUS" Displacement="5" Combined="20" Cylinders="8" City="19" Highway="23" Year="2016" />
+  <Car Name="MKZ AWD" Manufacturer="Lincoln" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="MKZ AWD" Manufacturer="Lincoln" Displacement="3.7" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="MKZ FWD" Manufacturer="Lincoln" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="33" Year="2016" />
+  <Car Name="MKZ FWD" Manufacturer="Lincoln" Displacement="3.7" Combined="22" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="MKZ HYBRID FWD" Manufacturer="Lincoln" Displacement="2" Combined="40" Cylinders="4" City="41" Highway="39" Year="2016" />
+  <Car Name="Ghibli  S RWD" Manufacturer="MASERATI" Displacement="3" Combined="19" Cylinders="6" City="16" Highway="24" Year="2016" />
+  <Car Name="Ghibli V6 Rear Wheel Drive (RWD)" Manufacturer="MASERATI" Displacement="3" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="Ghibli V6 SQ4 AWD" Manufacturer="MASERATI" Displacement="3" Combined="19" Cylinders="6" City="16" Highway="24" Year="2016" />
+  <Car Name="MAZDA 6" Manufacturer="MAZDA" Displacement="2.5" Combined="32" Cylinders="4" City="28" Highway="40" Year="2016" />
+  <Car Name="MAZDA 6" Manufacturer="MAZDA" Displacement="2.5" Combined="31" Cylinders="4" City="26" Highway="38" Year="2016" />
+  <Car Name="MAZDA 6" Manufacturer="MAZDA" Displacement="2.5" Combined="29" Cylinders="4" City="25" Highway="37" Year="2016" />
+  <Car Name="MAZDA3 5-Door" Manufacturer="MAZDA" Displacement="2" Combined="33" Cylinders="4" City="30" Highway="40" Year="2016" />
+  <Car Name="MAZDA3 5-Door" Manufacturer="MAZDA" Displacement="2" Combined="33" Cylinders="4" City="29" Highway="40" Year="2016" />
+  <Car Name="MAZDA3 5-Door" Manufacturer="MAZDA" Displacement="2.5" Combined="32" Cylinders="4" City="28" Highway="39" Year="2016" />
+  <Car Name="MAZDA3 5-Door" Manufacturer="MAZDA" Displacement="2.5" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="MAZDA3 5-Door" Manufacturer="MAZDA" Displacement="2.5" Combined="29" Cylinders="4" City="26" Highway="35" Year="2016" />
+  <Car Name="AMG E 63 4MATIC" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="19" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="AMG E 63 S 4MATIC" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="18" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="E 250 BLUETEC" Manufacturer="Mercedes-Benz" Displacement="2.1" Combined="33" Cylinders="4" City="28" Highway="42" Year="2016" />
+  <Car Name="E 250 BLUETEC 4MATIC" Manufacturer="Mercedes-Benz" Displacement="2.1" Combined="31" Cylinders="4" City="27" Highway="38" Year="2016" />
+  <Car Name="E 350" Manufacturer="Mercedes-Benz" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="E 350" Manufacturer="Mercedes-Benz" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="E 350 4MATIC" Manufacturer="Mercedes-Benz" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="E 350 4MATIC" Manufacturer="Mercedes-Benz" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="E 400" Manufacturer="Mercedes-Benz" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="E 400 4MATIC" Manufacturer="Mercedes-Benz" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="E 550 4MATIC" Manufacturer="Mercedes-Benz" Displacement="4.7" Combined="21" Cylinders="8" City="18" Highway="24" Year="2016" />
+  <Car Name="Mini Cooper Clubman" Manufacturer="Mini" Displacement="1.5" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="Mini Cooper Clubman" Manufacturer="Mini" Displacement="1.5" Combined="28" Cylinders="4" City="25" Highway="35" Year="2016" />
+  <Car Name="Mini Cooper S Clubman" Manufacturer="Mini" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="34" Year="2016" />
+  <Car Name="Mini Cooper S Clubman" Manufacturer="Mini" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="ALTIMA" Manufacturer="NISSAN" Displacement="2.5" Combined="31" Cylinders="4" City="27" Highway="39" Year="2016" />
+  <Car Name="ALTIMA 3.5" Manufacturer="NISSAN" Displacement="3.5" Combined="26" Cylinders="6" City="22" Highway="32" Year="2016" />
+  <Car Name="ALTIMA SR" Manufacturer="NISSAN" Displacement="2.5" Combined="30" Cylinders="4" City="26" Highway="37" Year="2016" />
+  <Car Name="MAXIMA" Manufacturer="NISSAN" Displacement="3.5" Combined="25" Cylinders="6" City="22" Highway="30" Year="2016" />
+  <Car Name="SENTRA" Manufacturer="NISSAN" Displacement="1.8" Combined="32" Cylinders="4" City="29" Highway="38" Year="2016" />
+  <Car Name="SENTRA" Manufacturer="NISSAN" Displacement="1.8" Combined="30" Cylinders="4" City="27" Highway="36" Year="2016" />
+  <Car Name="SENTRA FE+" Manufacturer="NISSAN" Displacement="1.8" Combined="34" Cylinders="4" City="30" Highway="40" Year="2016" />
+  <Car Name="Wraith" Manufacturer="Rolls-Royce Motor Cars Limited" Displacement="6.6" Combined="15" Cylinders="12" City="13" Highway="21" Year="2016" />
+  <Car Name="iM" Manufacturer="SCION" Displacement="1.8" Combined="32" Cylinders="4" City="28" Highway="37" Year="2016" />
+  <Car Name="iM" Manufacturer="SCION" Displacement="1.8" Combined="31" Cylinders="4" City="27" Highway="36" Year="2016" />
+  <Car Name="LEGACY" Manufacturer="Subaru" Displacement="2.5" Combined="30" Cylinders="4" City="26" Highway="36" Year="2016" />
+  <Car Name="LEGACY" Manufacturer="Subaru" Displacement="3.6" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="AVALON" Manufacturer="TOYOTA" Displacement="3.5" Combined="24" Cylinders="6" City="21" Highway="31" Year="2016" />
+  <Car Name="AVALON HYBRID" Manufacturer="TOYOTA" Displacement="2.5" Combined="40" Cylinders="4" City="40" Highway="39" Year="2016" />
+  <Car Name="CAMRY" Manufacturer="TOYOTA" Displacement="2.5" Combined="28" Cylinders="4" City="25" Highway="35" Year="2016" />
+  <Car Name="CAMRY" Manufacturer="TOYOTA" Displacement="3.5" Combined="25" Cylinders="6" City="21" Highway="31" Year="2016" />
+  <Car Name="CAMRY HYBRID LE" Manufacturer="TOYOTA" Displacement="2.5" Combined="41" Cylinders="4" City="43" Highway="39" Year="2016" />
+  <Car Name="CAMRY HYBRID XLE/SE" Manufacturer="TOYOTA" Displacement="2.5" Combined="40" Cylinders="4" City="40" Highway="38" Year="2016" />
+  <Car Name="COROLLA" Manufacturer="TOYOTA" Displacement="1.8" Combined="31" Cylinders="4" City="27" Highway="36" Year="2016" />
+  <Car Name="COROLLA" Manufacturer="TOYOTA" Displacement="1.8" Combined="32" Cylinders="4" City="29" Highway="38" Year="2016" />
+  <Car Name="COROLLA" Manufacturer="TOYOTA" Displacement="1.8" Combined="32" Cylinders="4" City="29" Highway="37" Year="2016" />
+  <Car Name="COROLLA" Manufacturer="TOYOTA" Displacement="1.8" Combined="31" Cylinders="4" City="28" Highway="37" Year="2016" />
+  <Car Name="COROLLA LE ECO" Manufacturer="TOYOTA" Displacement="1.8" Combined="35" Cylinders="4" City="30" Highway="42" Year="2016" />
+  <Car Name="COROLLA LE ECO" Manufacturer="TOYOTA" Displacement="1.8" Combined="34" Cylinders="4" City="30" Highway="40" Year="2016" />
+  <Car Name="PRIUS" Manufacturer="TOYOTA" Displacement="1.8" Combined="52" Cylinders="4" City="54" Highway="50" Year="2016" />
+  <Car Name="PRIUS Eco" Manufacturer="TOYOTA" Displacement="1.8" Combined="56" Cylinders="4" City="58" Highway="53" Year="2016" />
+  <Car Name="Passat" Manufacturer="Volkswagen" Displacement="1.8" Combined="29" Cylinders="4" City="25" Highway="38" Year="2016" />
+  <Car Name="Passat" Manufacturer="Volkswagen" Displacement="3.6" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="S80 FWD" Manufacturer="Volvo" Displacement="2" Combined="29" Cylinders="4" City="25" Highway="37" Year="2016" />
+  <Car Name="A8L" Manufacturer="Audi" Displacement="3" Combined="28" Cylinders="6" City="24" Highway="36" Year="2016" />
+  <Car Name="A8L" Manufacturer="Audi" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="29" Year="2016" />
+  <Car Name="A8L" Manufacturer="Audi" Displacement="4" Combined="22" Cylinders="8" City="18" Highway="29" Year="2016" />
+  <Car Name="A8L" Manufacturer="Audi" Displacement="6.3" Combined="17" Cylinders="12" City="14" Highway="22" Year="2016" />
+  <Car Name="328i xDrive Gran Turismo" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="335i xDrive Gran Turismo" Manufacturer="BMW" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="30" Year="2016" />
+  <Car Name="535i Gran Turismo" Manufacturer="BMW" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="535i xDrive Gran Turismo" Manufacturer="BMW" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="740i" Manufacturer="BMW" Displacement="3" Combined="24" Cylinders="6" City="21" Highway="29" Year="2016" />
+  <Car Name="750i" Manufacturer="BMW" Displacement="4.4" Combined="20" Cylinders="8" City="17" Highway="25" Year="2016" />
+  <Car Name="750i xDrive" Manufacturer="BMW" Displacement="4.4" Combined="19" Cylinders="8" City="16" Highway="25" Year="2016" />
+  <Car Name="X1 xDrive28i" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="CT6" Manufacturer="Cadillac" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="CT6 AWD" Manufacturer="Cadillac" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="CT6 AWD" Manufacturer="Cadillac" Displacement="3.6" Combined="22" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="XTS" Manufacturer="Cadillac" Displacement="3.6" Combined="22" Cylinders="6" City="18" Highway="28" Year="2016" />
+  <Car Name="XTS AWD" Manufacturer="Cadillac" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="XTS AWD" Manufacturer="Cadillac" Displacement="3.6" Combined="18" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="IMPALA" Manufacturer="Chevrolet" Displacement="2.5" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="IMPALA" Manufacturer="Chevrolet" Displacement="3.6" Combined="22" Cylinders="6" City="18" Highway="28" Year="2016" />
+  <Car Name="IMPALA" Manufacturer="Chevrolet" Displacement="3.6" Combined="22" Cylinders="6" City="19" Highway="29" Year="2016" />
+  <Car Name="IMPALA LIMITED" Manufacturer="Chevrolet" Displacement="3.6" Combined="22" Cylinders="6" City="18" Highway="30" Year="2016" />
+  <Car Name="SS" Manufacturer="Chevrolet" Displacement="6.2" Combined="16" Cylinders="8" City="14" Highway="20" Year="2016" />
+  <Car Name="SS" Manufacturer="Chevrolet" Displacement="6.2" Combined="17" Cylinders="8" City="14" Highway="22" Year="2016" />
+  <Car Name="300" Manufacturer="Chrysler" Displacement="3.6" Combined="23" Cylinders="6" City="19" Highway="31" Year="2016" />
+  <Car Name="300" Manufacturer="Chrysler" Displacement="3.6" Combined="23" Cylinders="6" City="19" Highway="31" Year="2016" />
+  <Car Name="300" Manufacturer="Chrysler" Displacement="5.7" Combined="19" Cylinders="8" City="16" Highway="25" Year="2016" />
+  <Car Name="300 AWD" Manufacturer="Chrysler" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="300 AWD" Manufacturer="Chrysler" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="Charger" Manufacturer="Dodge" Displacement="3.6" Combined="23" Cylinders="6" City="19" Highway="31" Year="2016" />
+  <Car Name="Charger" Manufacturer="Dodge" Displacement="3.6" Combined="23" Cylinders="6" City="19" Highway="31" Year="2016" />
+  <Car Name="Charger" Manufacturer="Dodge" Displacement="5.7" Combined="19" Cylinders="8" City="16" Highway="25" Year="2016" />
+  <Car Name="Charger" Manufacturer="Dodge" Displacement="6.4" Combined="18" Cylinders="8" City="15" Highway="25" Year="2016" />
+  <Car Name="Charger AWD" Manufacturer="Dodge" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="Charger AWD" Manufacturer="Dodge" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="Charger SRT8" Manufacturer="Dodge" Displacement="6.2" Combined="16" Cylinders="8" City="13" Highway="22" Year="2016" />
+  <Car Name="Charger SRT8" Manufacturer="Dodge" Displacement="6.4" Combined="18" Cylinders="8" City="15" Highway="25" Year="2016" />
+  <Car Name="C-MAX Hybrid FWD" Manufacturer="Ford" Displacement="2" Combined="40" Cylinders="4" City="42" Highway="37" Year="2016" />
+  <Car Name="Special Service Police FWD" Manufacturer="Ford" Displacement="2" Combined="22" Cylinders="4" City="19" Highway="28" Year="2016" />
+  <Car Name="TAURUS AWD" Manufacturer="Ford" Displacement="3.5" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="TAURUS AWD" Manufacturer="Ford" Displacement="3.5" Combined="19" Cylinders="6" City="16" Highway="24" Year="2016" />
+  <Car Name="TAURUS AWD FFV" Manufacturer="Ford" Displacement="3.5" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="TAURUS FWD" Manufacturer="Ford" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="29" Year="2016" />
+  <Car Name="TAURUS FWD" Manufacturer="Ford" Displacement="3.5" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="TAURUS FWD FFV" Manufacturer="Ford" Displacement="3.5" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="Azera" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="3.3" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="Azera Limited" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="3.3" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="Equus" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="5" Combined="18" Cylinders="8" City="15" Highway="23" Year="2016" />
+  <Car Name="Genesis AWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="3.8" Combined="19" Cylinders="6" City="16" Highway="25" Year="2016" />
+  <Car Name="Genesis RWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="3.8" Combined="22" Cylinders="6" City="18" Highway="29" Year="2016" />
+  <Car Name="Genesis RWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="5" Combined="18" Cylinders="8" City="15" Highway="23" Year="2016" />
+  <Car Name="Sonata" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="32" Cylinders="4" City="28" Highway="38" Year="2016" />
+  <Car Name="Sonata" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="32" Year="2016" />
+  <Car Name="Sonata" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2.4" Combined="30" Cylinders="4" City="25" Highway="38" Year="2016" />
+  <Car Name="Sonata Limited" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="25" Cylinders="4" City="21" Highway="31" Year="2016" />
+  <Car Name="Sonata SPORT/LIMITED" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2.4" Combined="29" Cylinders="4" City="25" Highway="36" Year="2016" />
+  <Car Name="XJ" Manufacturer="Jaguar" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="XJ" Manufacturer="Jaguar" Displacement="5" Combined="18" Cylinders="8" City="15" Highway="23" Year="2016" />
+  <Car Name="XJ AWD" Manufacturer="Jaguar" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="XJL" Manufacturer="Jaguar" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="XJL" Manufacturer="Jaguar" Displacement="5" Combined="18" Cylinders="8" City="15" Highway="23" Year="2016" />
+  <Car Name="XJL AWD" Manufacturer="Jaguar" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="25" Year="2016" />
+  <Car Name="Cadenza" Manufacturer="KIA MOTORS CORPORATION" Displacement="3.3" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="Forte 5" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.6" Combined="24" Cylinders="4" City="21" Highway="29" Year="2016" />
+  <Car Name="Forte 5" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.6" Combined="24" Cylinders="4" City="21" Highway="29" Year="2016" />
+  <Car Name="Forte 5" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="33" Year="2016" />
+  <Car Name="K900" Manufacturer="KIA MOTORS CORPORATION" Displacement="3.8" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="K900" Manufacturer="KIA MOTORS CORPORATION" Displacement="5" Combined="18" Cylinders="8" City="15" Highway="23" Year="2016" />
+  <Car Name="Optima" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.6" Combined="32" Cylinders="4" City="28" Highway="39" Year="2016" />
+  <Car Name="Optima" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="Optima" Manufacturer="KIA MOTORS CORPORATION" Displacement="2.4" Combined="28" Cylinders="4" City="24" Highway="35" Year="2016" />
+  <Car Name="Optima FE" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="Optima FE" Manufacturer="KIA MOTORS CORPORATION" Displacement="2.4" Combined="30" Cylinders="4" City="25" Highway="37" Year="2016" />
+  <Car Name="MKS AWD" Manufacturer="Lincoln" Displacement="3.5" Combined="19" Cylinders="6" City="16" Highway="24" Year="2016" />
+  <Car Name="MKS AWD" Manufacturer="Lincoln" Displacement="3.7" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="MKS FWD" Manufacturer="Lincoln" Displacement="3.7" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="QUATTROPORTE GTS" Manufacturer="MASERATI" Displacement="3.8" Combined="17" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="QUATTROPORTE S" Manufacturer="MASERATI" Displacement="3" Combined="18" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="QUATTROPORTE SQ4 V6" Manufacturer="MASERATI" Displacement="3" Combined="18" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="AMG S 63 4MATIC" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="18" Cylinders="8" City="15" Highway="23" Year="2016" />
+  <Car Name="AMG S 65" Manufacturer="Mercedes-Benz" Displacement="6" Combined="15" Cylinders="12" City="13" Highway="20" Year="2016" />
+  <Car Name="Maybach S 600" Manufacturer="Mercedes-Benz" Displacement="6" Combined="15" Cylinders="12" City="13" Highway="20" Year="2016" />
+  <Car Name="S 550" Manufacturer="Mercedes-Benz" Displacement="4.7" Combined="20" Cylinders="8" City="17" Highway="26" Year="2016" />
+  <Car Name="S 550 4MATIC" Manufacturer="Mercedes-Benz" Displacement="4.7" Combined="19" Cylinders="8" City="16" Highway="26" Year="2016" />
+  <Car Name="S 600" Manufacturer="Mercedes-Benz" Displacement="6" Combined="16" Cylinders="12" City="14" Highway="21" Year="2016" />
+  <Car Name="Panamera" Manufacturer="Porsche" Displacement="3.6" Combined="22" Cylinders="6" City="18" Highway="28" Year="2016" />
+  <Car Name="Panamera 4" Manufacturer="Porsche" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="Panamera 4S" Manufacturer="Porsche" Displacement="3" Combined="21" Cylinders="6" City="17" Highway="27" Year="2016" />
+  <Car Name="Panamera 4S Executive" Manufacturer="Porsche" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="Panamera GTS" Manufacturer="Porsche" Displacement="4.8" Combined="19" Cylinders="8" City="16" Highway="24" Year="2016" />
+  <Car Name="Panamera S" Manufacturer="Porsche" Displacement="3" Combined="21" Cylinders="6" City="17" Highway="27" Year="2016" />
+  <Car Name="Panamera Turbo" Manufacturer="Porsche" Displacement="4.8" Combined="18" Cylinders="8" City="15" Highway="24" Year="2016" />
+  <Car Name="Panamera Turbo Executive" Manufacturer="Porsche" Displacement="4.8" Combined="18" Cylinders="8" City="15" Highway="24" Year="2016" />
+  <Car Name="Panamera Turbo S" Manufacturer="Porsche" Displacement="4.8" Combined="18" Cylinders="8" City="15" Highway="24" Year="2016" />
+  <Car Name="Panamera Turbo S Executive" Manufacturer="Porsche" Displacement="4.8" Combined="18" Cylinders="8" City="15" Highway="24" Year="2016" />
+  <Car Name="Ghost" Manufacturer="Rolls-Royce Motor Cars Limited" Displacement="6.6" Combined="15" Cylinders="12" City="13" Highway="21" Year="2016" />
+  <Car Name="Ghost EWB" Manufacturer="Rolls-Royce Motor Cars Limited" Displacement="6.6" Combined="15" Cylinders="12" City="13" Highway="21" Year="2016" />
+  <Car Name="Phantom" Manufacturer="Rolls-Royce Motor Cars Limited" Displacement="6.7" Combined="14" Cylinders="12" City="11" Highway="19" Year="2016" />
+  <Car Name="Phantom EWB" Manufacturer="Rolls-Royce Motor Cars Limited" Displacement="6.7" Combined="14" Cylinders="12" City="11" Highway="19" Year="2016" />
+  <Car Name="allroad quattro" Manufacturer="Audi" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="28" Year="2016" />
+  <Car Name="328d xDrive Sports Wagon" Manufacturer="BMW" Displacement="2" Combined="34" Cylinders="4" City="30" Highway="40" Year="2016" />
+  <Car Name="328i xDrive Sports Wagon" Manufacturer="BMW" Displacement="2" Combined="26" Cylinders="4" City="22" Highway="34" Year="2016" />
+  <Car Name="SONIC 5" Manufacturer="Chevrolet" Displacement="1.4" Combined="31" Cylinders="4" City="27" Highway="37" Year="2016" />
+  <Car Name="SONIC 5" Manufacturer="Chevrolet" Displacement="1.4" Combined="33" Cylinders="4" City="29" Highway="40" Year="2016" />
+  <Car Name="SONIC 5" Manufacturer="Chevrolet" Displacement="1.8" Combined="28" Cylinders="4" City="24" Highway="35" Year="2016" />
+  <Car Name="SONIC 5" Manufacturer="Chevrolet" Displacement="1.8" Combined="30" Cylinders="4" City="26" Highway="35" Year="2016" />
+  <Car Name="500L" Manufacturer="FIAT" Displacement="1.4" Combined="25" Cylinders="4" City="22" Highway="30" Year="2016" />
+  <Car Name="500L" Manufacturer="FIAT" Displacement="1.4" Combined="28" Cylinders="4" City="25" Highway="33" Year="2016" />
+  <Car Name="FIT" Manufacturer="Honda" Displacement="1.5" Combined="36" Cylinders="4" City="33" Highway="41" Year="2016" />
+  <Car Name="FIT" Manufacturer="Honda" Displacement="1.5" Combined="35" Cylinders="4" City="32" Highway="38" Year="2016" />
+  <Car Name="FIT" Manufacturer="Honda" Displacement="1.5" Combined="32" Cylinders="4" City="29" Highway="37" Year="2016" />
+  <Car Name="QX50" Manufacturer="INFINITI" Displacement="3.7" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="QX50 AWD" Manufacturer="INFINITI" Displacement="3.7" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="Soul" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.6" Combined="26" Cylinders="4" City="24" Highway="30" Year="2016" />
+  <Car Name="Soul" Manufacturer="KIA MOTORS CORPORATION" Displacement="1.6" Combined="26" Cylinders="4" City="24" Highway="30" Year="2016" />
+  <Car Name="Soul" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="Soul ECO dynamics" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="JUKE" Manufacturer="NISSAN" Displacement="1.6" Combined="30" Cylinders="4" City="28" Highway="32" Year="2016" />
+  <Car Name="JUKE" Manufacturer="NISSAN" Displacement="1.6" Combined="30" Cylinders="4" City="28" Highway="34" Year="2016" />
+  <Car Name="JUKE AWD" Manufacturer="NISSAN" Displacement="1.6" Combined="28" Cylinders="4" City="26" Highway="31" Year="2016" />
+  <Car Name="JUKE NISMO RS" Manufacturer="NISSAN" Displacement="1.6" Combined="27" Cylinders="4" City="25" Highway="31" Year="2016" />
+  <Car Name="JUKE NISMO RS AWD" Manufacturer="NISSAN" Displacement="1.6" Combined="27" Cylinders="4" City="25" Highway="29" Year="2016" />
+  <Car Name="IMPREZA SPORT" Manufacturer="Subaru" Displacement="2" Combined="31" Cylinders="4" City="27" Highway="36" Year="2016" />
+  <Car Name="IMPREZA SPORT" Manufacturer="Subaru" Displacement="2" Combined="28" Cylinders="4" City="24" Highway="33" Year="2016" />
+  <Car Name="IMPREZA WAGON" Manufacturer="Subaru" Displacement="2" Combined="31" Cylinders="4" City="28" Highway="37" Year="2016" />
+  <Car Name="IMPREZA WAGON" Manufacturer="Subaru" Displacement="2" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="Golf SportWagen" Manufacturer="Volkswagen" Displacement="1.8" Combined="29" Cylinders="4" City="25" Highway="35" Year="2016" />
+  <Car Name="Golf SportWagen" Manufacturer="Volkswagen" Displacement="1.8" Combined="29" Cylinders="4" City="25" Highway="36" Year="2016" />
+  <Car Name="V60 AWD" Manufacturer="Volvo" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="V60 AWD" Manufacturer="Volvo" Displacement="2.5" Combined="23" Cylinders="5" City="20" Highway="29" Year="2016" />
+  <Car Name="V60 AWD" Manufacturer="Volvo" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="V60 FWD" Manufacturer="Volvo" Displacement="2" Combined="29" Cylinders="4" City="25" Highway="37" Year="2016" />
+  <Car Name="V60 Polestar AWD" Manufacturer="Volvo" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="27" Year="2016" />
+  <Car Name="V60CC AWD" Manufacturer="Volvo" Displacement="2.5" Combined="23" Cylinders="5" City="20" Highway="28" Year="2016" />
+  <Car Name="AMG E 63 S 4MATIC (stat. wagon)" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="18" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="AMG GLA 45 4MATIC" Manufacturer="Mercedes-Benz" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="29" Year="2016" />
+  <Car Name="E 350 4Matic (Wagon)" Manufacturer="Mercedes-Benz" Displacement="3.5" Combined="22" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="GLA 250" Manufacturer="Mercedes-Benz" Displacement="2" Combined="29" Cylinders="4" City="25" Highway="35" Year="2016" />
+  <Car Name="MURANO AWD" Manufacturer="NISSAN" Displacement="3.5" Combined="24" Cylinders="6" City="21" Highway="28" Year="2016" />
+  <Car Name="MURANO FWD" Manufacturer="NISSAN" Displacement="3.5" Combined="24" Cylinders="6" City="21" Highway="28" Year="2016" />
+  <Car Name="MURANO Hybrid AWD" Manufacturer="NISSAN" Displacement="2.5" Combined="28" Cylinders="4" City="26" Highway="30" Year="2016" />
+  <Car Name="MURANO Hybrid FWD" Manufacturer="NISSAN" Displacement="2.5" Combined="29" Cylinders="4" City="28" Highway="31" Year="2016" />
+  <Car Name="PRIUS v" Manufacturer="TOYOTA" Displacement="1.8" Combined="42" Cylinders="4" City="44" Highway="40" Year="2016" />
+  <Car Name="COLORADO 2WD" Manufacturer="Chevrolet" Displacement="2.5" Combined="22" Cylinders="4" City="20" Highway="27" Year="2016" />
+  <Car Name="COLORADO 2WD" Manufacturer="Chevrolet" Displacement="2.5" Combined="22" Cylinders="4" City="19" Highway="26" Year="2016" />
+  <Car Name="COLORADO 2WD" Manufacturer="Chevrolet" Displacement="2.8" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="COLORADO 2WD" Manufacturer="Chevrolet" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="CANYON 2WD" Manufacturer="GMC" Displacement="2.5" Combined="22" Cylinders="4" City="20" Highway="27" Year="2016" />
+  <Car Name="CANYON 2WD" Manufacturer="GMC" Displacement="2.5" Combined="22" Cylinders="4" City="19" Highway="26" Year="2016" />
+  <Car Name="CANYON 2WD" Manufacturer="GMC" Displacement="2.8" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="CANYON 2WD" Manufacturer="GMC" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="FRONTIER 2WD" Manufacturer="NISSAN" Displacement="2.5" Combined="19" Cylinders="4" City="17" Highway="23" Year="2016" />
+  <Car Name="FRONTIER 2WD" Manufacturer="NISSAN" Displacement="2.5" Combined="21" Cylinders="4" City="19" Highway="23" Year="2016" />
+  <Car Name="FRONTIER 2WD" Manufacturer="NISSAN" Displacement="4" Combined="18" Cylinders="6" City="16" Highway="22" Year="2016" />
+  <Car Name="FRONTIER 2WD" Manufacturer="NISSAN" Displacement="4" Combined="19" Cylinders="6" City="17" Highway="22" Year="2016" />
+  <Car Name="TACOMA 2WD" Manufacturer="TOYOTA" Displacement="2.7" Combined="21" Cylinders="4" City="19" Highway="23" Year="2016" />
+  <Car Name="TACOMA 2WD" Manufacturer="TOYOTA" Displacement="3.5" Combined="21" Cylinders="6" City="19" Highway="24" Year="2016" />
+  <Car Name="COLORADO 4WD" Manufacturer="Chevrolet" Displacement="2.5" Combined="21" Cylinders="4" City="19" Highway="25" Year="2016" />
+  <Car Name="COLORADO 4WD" Manufacturer="Chevrolet" Displacement="2.8" Combined="23" Cylinders="4" City="20" Highway="29" Year="2016" />
+  <Car Name="COLORADO 4WD" Manufacturer="Chevrolet" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="CANYON 4WD" Manufacturer="GMC" Displacement="2.5" Combined="21" Cylinders="4" City="19" Highway="25" Year="2016" />
+  <Car Name="CANYON 4WD" Manufacturer="GMC" Displacement="2.8" Combined="23" Cylinders="4" City="20" Highway="29" Year="2016" />
+  <Car Name="CANYON 4WD" Manufacturer="GMC" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="FRONTIER 4WD" Manufacturer="NISSAN" Displacement="4" Combined="17" Cylinders="6" City="15" Highway="21" Year="2016" />
+  <Car Name="FRONTIER 4WD" Manufacturer="NISSAN" Displacement="4" Combined="18" Cylinders="6" City="16" Highway="21" Year="2016" />
+  <Car Name="TACOMA 4WD" Manufacturer="TOYOTA" Displacement="2.7" Combined="20" Cylinders="4" City="19" Highway="22" Year="2016" />
+  <Car Name="TACOMA 4WD" Manufacturer="TOYOTA" Displacement="2.7" Combined="20" Cylinders="4" City="19" Highway="21" Year="2016" />
+  <Car Name="TACOMA 4WD" Manufacturer="TOYOTA" Displacement="3.5" Combined="20" Cylinders="6" City="18" Highway="23" Year="2016" />
+  <Car Name="TACOMA 4WD" Manufacturer="TOYOTA" Displacement="3.5" Combined="19" Cylinders="6" City="17" Highway="21" Year="2016" />
+  <Car Name="Tacoma 4WD Double Cab" Manufacturer="TOYOTA" Displacement="3.5" Combined="18" Cylinders="6" City="17" Highway="20" Year="2016" />
+  <Car Name="C15 SILVERADO 2WD" Manufacturer="Chevrolet" Displacement="4.3" Combined="20" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="C15 SILVERADO 2WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="19" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C15 SILVERADO 2WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="19" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C15 SILVERADO 2WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="20" Cylinders="8" City="18" Highway="24" Year="2016" />
+  <Car Name="C15 SILVERADO 2WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="C15 SILVERADO 2WD" Manufacturer="Chevrolet" Displacement="6.2" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="F150 2.7L 2WD GVWR&gt;6649 LBS PAYLOAD PACKAGE" Manufacturer="Ford" Displacement="2.7" Combined="21" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="F150 2WD" Manufacturer="Ford" Displacement="2.7" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="F150 2WD" Manufacturer="Ford" Displacement="3.5" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="F150 2WD FFV" Manufacturer="Ford" Displacement="3.5" Combined="20" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="F150 2WD FFV" Manufacturer="Ford" Displacement="5" Combined="18" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="F150 3.5L 2WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" Manufacturer="Ford" Displacement="3.5" Combined="18" Cylinders="6" City="16" Highway="22" Year="2016" />
+  <Car Name="F150 5.0L 2WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" Manufacturer="Ford" Displacement="5" Combined="16" Cylinders="8" City="14" Highway="20" Year="2016" />
+  <Car Name="C15 SIERRA 2WD" Manufacturer="GMC" Displacement="4.3" Combined="20" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="C15 SIERRA 2WD" Manufacturer="GMC" Displacement="5.3" Combined="19" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C15 SIERRA 2WD" Manufacturer="GMC" Displacement="5.3" Combined="19" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C15 SIERRA 2WD" Manufacturer="GMC" Displacement="5.3" Combined="20" Cylinders="8" City="18" Highway="24" Year="2016" />
+  <Car Name="C15 SIERRA 2WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="C15 SIERRA 2WD" Manufacturer="GMC" Displacement="6.2" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="1500 4X2" Manufacturer="RAM" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="1500 4X2" Manufacturer="RAM" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="25" Year="2016" />
+  <Car Name="1500 4X2" Manufacturer="RAM" Displacement="5.7" Combined="16" Cylinders="8" City="14" Highway="20" Year="2016" />
+  <Car Name="1500 4X2" Manufacturer="RAM" Displacement="5.7" Combined="17" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="1500 HFE 4X2" Manufacturer="RAM" Displacement="3" Combined="24" Cylinders="6" City="21" Highway="29" Year="2016" />
+  <Car Name="1500 HFE 4X2" Manufacturer="RAM" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="F150 Pickup 2WD" Manufacturer="Roush" Displacement="5" Combined="13" Cylinders="8" City="12" Highway="15" Year="2016" />
+  <Car Name="TUNDRA 2WD" Manufacturer="TOYOTA" Displacement="4.6" Combined="16" Cylinders="8" City="15" Highway="19" Year="2016" />
+  <Car Name="TUNDRA 2WD" Manufacturer="TOYOTA" Displacement="5.7" Combined="15" Cylinders="8" City="13" Highway="18" Year="2016" />
+  <Car Name="TUNDRA 2WD FFV" Manufacturer="TOYOTA" Displacement="5.7" Combined="15" Cylinders="8" City="13" Highway="18" Year="2016" />
+  <Car Name="K15 SILVERADO 4WD" Manufacturer="Chevrolet" Displacement="4.3" Combined="19" Cylinders="6" City="17" Highway="22" Year="2016" />
+  <Car Name="K15 SILVERADO 4WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="K15 SILVERADO 4WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="K15 SILVERADO 4WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="21" Year="2016" />
+  <Car Name="K15 SILVERADO 4WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="K15 SILVERADO 4WD" Manufacturer="Chevrolet" Displacement="6.2" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="F150 2.7L 4WD GVWR&gt;6799 LBS PAYLOAD PACKAGE" Manufacturer="Ford" Displacement="2.7" Combined="19" Cylinders="6" City="18" Highway="22" Year="2016" />
+  <Car Name="F150 3.5L 4WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" Manufacturer="Ford" Displacement="3.5" Combined="17" Cylinders="6" City="15" Highway="20" Year="2016" />
+  <Car Name="F150 4WD" Manufacturer="Ford" Displacement="2.7" Combined="20" Cylinders="6" City="18" Highway="23" Year="2016" />
+  <Car Name="F150 4WD" Manufacturer="Ford" Displacement="3.5" Combined="18" Cylinders="6" City="16" Highway="22" Year="2016" />
+  <Car Name="F150 4WD FFV" Manufacturer="Ford" Displacement="3.5" Combined="19" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="F150 4WD FFV" Manufacturer="Ford" Displacement="5" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="F150 5.0L 4WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" Manufacturer="Ford" Displacement="5" Combined="16" Cylinders="8" City="14" Highway="19" Year="2016" />
+  <Car Name="K15 SIERRA 4WD" Manufacturer="GMC" Displacement="4.3" Combined="19" Cylinders="6" City="17" Highway="22" Year="2016" />
+  <Car Name="K15 SIERRA 4WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="K15 SIERRA 4WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="K15 SIERRA 4WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="21" Year="2016" />
+  <Car Name="K15 SIERRA 4WD" Manufacturer="GMC" Displacement="5.3" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="K15 SIERRA 4WD" Manufacturer="GMC" Displacement="6.2" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="1500 4X4" Manufacturer="RAM" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="1500 4X4" Manufacturer="RAM" Displacement="3.6" Combined="19" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="1500 4X4" Manufacturer="RAM" Displacement="5.7" Combined="15" Cylinders="8" City="13" Highway="19" Year="2016" />
+  <Car Name="1500 4X4" Manufacturer="RAM" Displacement="5.7" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="F150 Pickup 4WD" Manufacturer="Roush" Displacement="5" Combined="13" Cylinders="8" City="12" Highway="15" Year="2016" />
+  <Car Name="TUNDRA 4WD" Manufacturer="TOYOTA" Displacement="4.6" Combined="16" Cylinders="8" City="14" Highway="18" Year="2016" />
+  <Car Name="TUNDRA 4WD" Manufacturer="TOYOTA" Displacement="5.7" Combined="15" Cylinders="8" City="13" Highway="17" Year="2016" />
+  <Car Name="TUNDRA 4WD FFV" Manufacturer="TOYOTA" Displacement="5.7" Combined="15" Cylinders="8" City="13" Highway="17" Year="2016" />
+  <Car Name="G2500 EXPRESS 2WD PASS MDPV" Manufacturer="Chevrolet" Displacement="6" Combined="13" Cylinders="8" City="11" Highway="16" Year="2016" />
+  <Car Name="G3500 EXPRESS 2WD PASS MDPV" Manufacturer="Chevrolet" Displacement="6" Combined="12" Cylinders="8" City="11" Highway="16" Year="2016" />
+  <Car Name="Transit T150 Wagon" Manufacturer="Ford" Displacement="3.5" Combined="16" Cylinders="6" City="15" Highway="19" Year="2016" />
+  <Car Name="Transit T150 Wagon FFV" Manufacturer="Ford" Displacement="3.7" Combined="16" Cylinders="6" City="14" Highway="18" Year="2016" />
+  <Car Name="G2500 SAVANA 2WD PASS MDPV" Manufacturer="GMC" Displacement="6" Combined="13" Cylinders="8" City="11" Highway="16" Year="2016" />
+  <Car Name="G3500 SAVANA 2WD PASS MDPV" Manufacturer="GMC" Displacement="6" Combined="12" Cylinders="8" City="11" Highway="16" Year="2016" />
+  <Car Name="XTS HEARSE" Manufacturer="Cadillac" Displacement="3.6" Combined="17" Cylinders="6" City="15" Highway="21" Year="2016" />
+  <Car Name="XTS LIMO" Manufacturer="Cadillac" Displacement="3.6" Combined="17" Cylinders="6" City="15" Highway="21" Year="2016" />
+  <Car Name="City Express Cargo Van" Manufacturer="CHEVROLET" Displacement="2" Combined="25" Cylinders="4" City="24" Highway="26" Year="2016" />
+  <Car Name="Transit Connect Van 2WD" Manufacturer="Ford" Displacement="1.6" Combined="25" Cylinders="4" City="22" Highway="29" Year="2016" />
+  <Car Name="Transit Connect Van 2WD" Manufacturer="Ford" Displacement="2.5" Combined="23" Cylinders="4" City="20" Highway="28" Year="2016" />
+  <Car Name="TRANSIT CONNECT VAN FFV" Manufacturer="Ford" Displacement="2.5" Combined="23" Cylinders="4" City="20" Highway="28" Year="2016" />
+  <Car Name="TRANSIT CONNECT WAGON FFV" Manufacturer="Ford" Displacement="2.5" Combined="22" Cylinders="4" City="19" Highway="27" Year="2016" />
+  <Car Name="TRANSIT CONNECT WAGON FWD" Manufacturer="Ford" Displacement="1.6" Combined="25" Cylinders="4" City="22" Highway="29" Year="2016" />
+  <Car Name="TRANSIT CONNECT WAGON FWD" Manufacturer="Ford" Displacement="2.5" Combined="22" Cylinders="4" City="19" Highway="27" Year="2016" />
+  <Car Name="TRANSIT CONNECT WAGON LWB FFV" Manufacturer="Ford" Displacement="2.5" Combined="22" Cylinders="4" City="19" Highway="27" Year="2016" />
+  <Car Name="Transit Connect Wagon LWB FWD" Manufacturer="Ford" Displacement="2.5" Combined="22" Cylinders="4" City="19" Highway="27" Year="2016" />
+  <Car Name="MKT LIVERY FWD" Manufacturer="Lincoln" Displacement="2" Combined="21" Cylinders="4" City="18" Highway="25" Year="2016" />
+  <Car Name="Metris (Cargo Van)" Manufacturer="Mercedes-Benz" Displacement="2" Combined="22" Cylinders="4" City="21" Highway="24" Year="2016" />
+  <Car Name="Metris (Passenger Van)" Manufacturer="Mercedes-Benz" Displacement="2" Combined="22" Cylinders="4" City="20" Highway="23" Year="2016" />
+  <Car Name="NV200 Cargo Van" Manufacturer="NISSAN" Displacement="2" Combined="25" Cylinders="4" City="24" Highway="26" Year="2016" />
+  <Car Name="NV200 NYC Taxi" Manufacturer="NISSAN" Displacement="2" Combined="24" Cylinders="4" City="23" Highway="26" Year="2016" />
+  <Car Name="Promaster City" Manufacturer="RAM" Displacement="2.4" Combined="24" Cylinders="4" City="21" Highway="29" Year="2016" />
+  <Car Name="MKT LIVERY AWD" Manufacturer="Lincoln" Displacement="3.7" Combined="18" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="C15 SILVERADO 2WD CAB CHASSIS" Manufacturer="Chevrolet" Displacement="5.3" Combined="17" Cylinders="8" City="15" Highway="20" Year="2016" />
+  <Car Name="COLORADO CAB CHASSIS 2WD" Manufacturer="Chevrolet" Displacement="3.6" Combined="16" Cylinders="6" City="15" Highway="17" Year="2016" />
+  <Car Name="K15 SILVERADO 4WD CAB CHASSIS" Manufacturer="Chevrolet" Displacement="5.3" Combined="17" Cylinders="8" City="15" Highway="19" Year="2016" />
+  <Car Name="C15 SIERRA 2WD CAB CHASSIS" Manufacturer="GMC" Displacement="5.3" Combined="17" Cylinders="8" City="15" Highway="20" Year="2016" />
+  <Car Name="CANYON CAB CHASSIS 2WD" Manufacturer="GMC" Displacement="3.6" Combined="16" Cylinders="6" City="15" Highway="17" Year="2016" />
+  <Car Name="K15 SIERRA 4WD CAB CHASSIS" Manufacturer="GMC" Displacement="5.3" Combined="17" Cylinders="8" City="15" Highway="19" Year="2016" />
+  <Car Name="Town &amp; Country" Manufacturer="Chrysler" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="25" Year="2016" />
+  <Car Name="Town &amp; Country" Manufacturer="Chrysler" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="25" Year="2016" />
+  <Car Name="Grand Caravan" Manufacturer="Dodge" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="25" Year="2016" />
+  <Car Name="Grand Caravan" Manufacturer="Dodge" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="25" Year="2016" />
+  <Car Name="ODYSSEY 2WD" Manufacturer="Honda" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="Sedona" Manufacturer="KIA MOTORS CORPORATION" Displacement="3.3" Combined="20" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="Sedona SX" Manufacturer="KIA MOTORS CORPORATION" Displacement="3.3" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="Sedona SXL" Manufacturer="KIA MOTORS CORPORATION" Displacement="3.3" Combined="19" Cylinders="6" City="17" Highway="22" Year="2016" />
+  <Car Name="QUEST" Manufacturer="NISSAN" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="SIENNA" Manufacturer="TOYOTA" Displacement="3.5" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="SIENNA AWD" Manufacturer="TOYOTA" Displacement="3.5" Combined="19" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="MDX 2WD" Manufacturer="Acura" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="MDX 2WD" Manufacturer="Acura" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="RDX 2WD" Manufacturer="Acura" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="X3 sDrive 28i" Manufacturer="BMW" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="28" Year="2016" />
+  <Car Name="ENCORE" Manufacturer="Buick" Displacement="1.4" Combined="30" Cylinders="4" City="28" Highway="34" Year="2016" />
+  <Car Name="ENCORE" Manufacturer="Buick" Displacement="1.4" Combined="28" Cylinders="4" City="25" Highway="33" Year="2016" />
+  <Car Name="EQUINOX FWD" Manufacturer="Chevrolet" Displacement="2.4" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="EQUINOX FWD" Manufacturer="Chevrolet" Displacement="2.4" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="EQUINOX FWD" Manufacturer="Chevrolet" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="TRAX" Manufacturer="Chevrolet" Displacement="1.4" Combined="29" Cylinders="4" City="26" Highway="34" Year="2016" />
+  <Car Name="Journey" Manufacturer="Dodge" Displacement="2.4" Combined="21" Cylinders="4" City="19" Highway="26" Year="2016" />
+  <Car Name="Journey" Manufacturer="Dodge" Displacement="3.6" Combined="19" Cylinders="6" City="17" Highway="25" Year="2016" />
+  <Car Name="500X" Manufacturer="FIAT" Displacement="1.4" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="500X" Manufacturer="FIAT" Displacement="2.4" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="EDGE FWD" Manufacturer="Ford" Displacement="2" Combined="24" Cylinders="4" City="20" Highway="30" Year="2016" />
+  <Car Name="EDGE FWD" Manufacturer="Ford" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="30" Year="2016" />
+  <Car Name="EDGE FWD" Manufacturer="Ford" Displacement="3.5" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="ESCAPE FWD" Manufacturer="Ford" Displacement="1.6" Combined="26" Cylinders="4" City="23" Highway="32" Year="2016" />
+  <Car Name="ESCAPE FWD" Manufacturer="Ford" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="30" Year="2016" />
+  <Car Name="ESCAPE FWD" Manufacturer="Ford" Displacement="2.5" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="TERRAIN FWD" Manufacturer="GMC" Displacement="2.4" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="TERRAIN FWD" Manufacturer="GMC" Displacement="2.4" Combined="26" Cylinders="4" City="22" Highway="32" Year="2016" />
+  <Car Name="TERRAIN FWD" Manufacturer="GMC" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="CR-V 2WD" Manufacturer="Honda" Displacement="2.4" Combined="29" Cylinders="4" City="26" Highway="33" Year="2016" />
+  <Car Name="HR-V 2WD" Manufacturer="Honda" Displacement="1.8" Combined="31" Cylinders="4" City="28" Highway="35" Year="2016" />
+  <Car Name="HR-V 2WD" Manufacturer="Honda" Displacement="1.8" Combined="31" Cylinders="4" City="28" Highway="35" Year="2016" />
+  <Car Name="HR-V 2WD" Manufacturer="Honda" Displacement="1.8" Combined="28" Cylinders="4" City="25" Highway="34" Year="2016" />
+  <Car Name="PILOT 2WD" Manufacturer="Honda" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="PILOT 2WD" Manufacturer="Honda" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="Santa Fe FWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="3.3" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="Santa Fe Sport FWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="22" Cylinders="4" City="19" Highway="27" Year="2016" />
+  <Car Name="Santa Fe Sport FWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2.4" Combined="23" Cylinders="4" City="20" Highway="27" Year="2016" />
+  <Car Name="Santa Fe Sport ULTIMATE FWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="22" Cylinders="4" City="19" Highway="26" Year="2016" />
+  <Car Name="Santa Fe Ultimate FWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="3.3" Combined="20" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="Tucson Eco FWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="29" Cylinders="4" City="26" Highway="33" Year="2016" />
+  <Car Name="Tucson FWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="27" Cylinders="4" City="25" Highway="30" Year="2016" />
+  <Car Name="Tucson FWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="QX60 FWD" Manufacturer="INFINITI" Displacement="3.5" Combined="23" Cylinders="6" City="21" Highway="27" Year="2016" />
+  <Car Name="QX70 RWD" Manufacturer="INFINITI" Displacement="3.7" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="Cherokee FWD" Manufacturer="Jeep" Displacement="2.4" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="Cherokee FWD" Manufacturer="Jeep" Displacement="2.4" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="Cherokee FWD" Manufacturer="Jeep" Displacement="3.2" Combined="24" Cylinders="6" City="21" Highway="29" Year="2016" />
+  <Car Name="Compass FWD" Manufacturer="Jeep" Displacement="2" Combined="24" Cylinders="4" City="22" Highway="26" Year="2016" />
+  <Car Name="Compass FWD" Manufacturer="Jeep" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="Compass FWD" Manufacturer="Jeep" Displacement="2.4" Combined="23" Cylinders="4" City="21" Highway="28" Year="2016" />
+  <Car Name="Compass FWD" Manufacturer="Jeep" Displacement="2.4" Combined="25" Cylinders="4" City="23" Highway="29" Year="2016" />
+  <Car Name="Patriot FWD" Manufacturer="Jeep" Displacement="2" Combined="24" Cylinders="4" City="22" Highway="26" Year="2016" />
+  <Car Name="Patriot FWD" Manufacturer="Jeep" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="Patriot FWD" Manufacturer="Jeep" Displacement="2.4" Combined="23" Cylinders="4" City="21" Highway="28" Year="2016" />
+  <Car Name="Patriot FWD" Manufacturer="Jeep" Displacement="2.4" Combined="25" Cylinders="4" City="23" Highway="29" Year="2016" />
+  <Car Name="Renegade 4x2" Manufacturer="Jeep" Displacement="1.4" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="Renegade 4x2" Manufacturer="Jeep" Displacement="2.4" Combined="25" Cylinders="4" City="22" Highway="31" Year="2016" />
+  <Car Name="Sorento FWD" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="27" Year="2016" />
+  <Car Name="Sorento FWD" Manufacturer="KIA MOTORS CORPORATION" Displacement="2.4" Combined="24" Cylinders="4" City="21" Highway="29" Year="2016" />
+  <Car Name="Sorento FWD" Manufacturer="KIA MOTORS CORPORATION" Displacement="3.3" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="Sportage FWD" Manufacturer="KIA MOTORS CORPORATION" Displacement="2.4" Combined="24" Cylinders="4" City="21" Highway="28" Year="2016" />
+  <Car Name="Sportage SX FWD" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="22" Cylinders="4" City="20" Highway="26" Year="2016" />
+  <Car Name="NX 200t" Manufacturer="LEXUS" Displacement="2" Combined="25" Cylinders="4" City="22" Highway="28" Year="2016" />
+  <Car Name="NX 300h" Manufacturer="LEXUS" Displacement="2.5" Combined="33" Cylinders="4" City="35" Highway="31" Year="2016" />
+  <Car Name="RX 350" Manufacturer="LEXUS" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="RX 450h" Manufacturer="LEXUS" Displacement="3.5" Combined="30" Cylinders="6" City="31" Highway="30" Year="2016" />
+  <Car Name="MKC  FWD" Manufacturer="Lincoln" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="29" Year="2016" />
+  <Car Name="MKX FWD" Manufacturer="Lincoln" Displacement="2.7" Combined="21" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="MKX FWD" Manufacturer="Lincoln" Displacement="3.7" Combined="20" Cylinders="6" City="17" Highway="26" Year="2016" />
+  <Car Name="CX-5 2WD" Manufacturer="MAZDA" Displacement="2" Combined="29" Cylinders="4" City="26" Highway="35" Year="2016" />
+  <Car Name="CX-5 2WD" Manufacturer="MAZDA" Displacement="2.5" Combined="29" Cylinders="4" City="26" Highway="33" Year="2016" />
+  <Car Name="GLC 300" Manufacturer="Mercedes-Benz" Displacement="2" Combined="24" Cylinders="4" City="22" Highway="28" Year="2016" />
+  <Car Name="OUTLANDER 2WD" Manufacturer="Mitsubishi Motors Corporation" Displacement="2.4" Combined="27" Cylinders="4" City="25" Highway="31" Year="2016" />
+  <Car Name="OUTLANDER SPORT 2WD" Manufacturer="Mitsubishi Motors Corporation" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="OUTLANDER SPORT 2WD" Manufacturer="Mitsubishi Motors Corporation" Displacement="2" Combined="25" Cylinders="4" City="23" Highway="29" Year="2016" />
+  <Car Name="OUTLANDER SPORT 2WD" Manufacturer="Mitsubishi Motors Corporation" Displacement="2.4" Combined="25" Cylinders="4" City="23" Highway="28" Year="2016" />
+  <Car Name="PATHFINDER 2WD" Manufacturer="NISSAN" Displacement="3.5" Combined="23" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="ROGUE FWD" Manufacturer="NISSAN" Displacement="2.5" Combined="28" Cylinders="4" City="26" Highway="33" Year="2016" />
+  <Car Name="HIGHLANDER" Manufacturer="TOYOTA" Displacement="2.7" Combined="22" Cylinders="4" City="20" Highway="25" Year="2016" />
+  <Car Name="HIGHLANDER" Manufacturer="TOYOTA" Displacement="3.5" Combined="21" Cylinders="6" City="19" Highway="25" Year="2016" />
+  <Car Name="RAV4" Manufacturer="TOYOTA" Displacement="2.5" Combined="26" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="RAV4 LE/XLE" Manufacturer="TOYOTA" Displacement="2.5" Combined="26" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="Tiguan" Manufacturer="Volkswagen" Displacement="2" Combined="23" Cylinders="4" City="21" Highway="26" Year="2016" />
+  <Car Name="XC60 FWD" Manufacturer="Volvo" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="XC60 FWD" Manufacturer="Volvo" Displacement="2" Combined="24" Cylinders="4" City="22" Highway="29" Year="2016" />
+  <Car Name="XC70 FWD" Manufacturer="Volvo" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="MDX 4WD" Manufacturer="Acura" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="MDX 4WD" Manufacturer="Acura" Displacement="3.5" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="RDX 4WD" Manufacturer="Acura" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="28" Year="2016" />
+  <Car Name="Q5" Manufacturer="Audi" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="28" Year="2016" />
+  <Car Name="Q5" Manufacturer="Audi" Displacement="3" Combined="27" Cylinders="6" City="24" Highway="31" Year="2016" />
+  <Car Name="Q5" Manufacturer="Audi" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="Q5 Hybrid" Manufacturer="Audi" Displacement="2" Combined="26" Cylinders="4" City="24" Highway="30" Year="2016" />
+  <Car Name="SQ5" Manufacturer="Audi" Displacement="3" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="X3 xDrive28d" Manufacturer="BMW" Displacement="2" Combined="30" Cylinders="4" City="27" Highway="34" Year="2016" />
+  <Car Name="X3 xDrive28i" Manufacturer="BMW" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="28" Year="2016" />
+  <Car Name="X3 xDrive35i" Manufacturer="BMW" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="X4 M40i" Manufacturer="BMW" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="X4 xDrive28i" Manufacturer="BMW" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="28" Year="2016" />
+  <Car Name="X4 xDrive35i" Manufacturer="BMW" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="ENCORE AWD" Manufacturer="Buick" Displacement="1.4" Combined="29" Cylinders="4" City="26" Highway="32" Year="2016" />
+  <Car Name="ENCORE AWD" Manufacturer="Buick" Displacement="1.4" Combined="26" Cylinders="4" City="23" Highway="30" Year="2016" />
+  <Car Name="ENVISION AWD" Manufacturer="Buick" Displacement="2" Combined="22" Cylinders="4" City="20" Highway="26" Year="2016" />
+  <Car Name="EQUINOX AWD" Manufacturer="Chevrolet" Displacement="2.4" Combined="23" Cylinders="4" City="20" Highway="29" Year="2016" />
+  <Car Name="EQUINOX AWD" Manufacturer="Chevrolet" Displacement="2.4" Combined="23" Cylinders="4" City="20" Highway="29" Year="2016" />
+  <Car Name="EQUINOX AWD" Manufacturer="Chevrolet" Displacement="3.6" Combined="18" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="TRAX AWD" Manufacturer="Chevrolet" Displacement="1.4" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="Journey AWD" Manufacturer="Dodge" Displacement="3.6" Combined="19" Cylinders="6" City="16" Highway="24" Year="2016" />
+  <Car Name="500X AWD" Manufacturer="FIAT" Displacement="2.4" Combined="24" Cylinders="4" City="21" Highway="30" Year="2016" />
+  <Car Name="EDGE AWD" Manufacturer="Ford" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="28" Year="2016" />
+  <Car Name="EDGE AWD" Manufacturer="Ford" Displacement="2.7" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="EDGE AWD" Manufacturer="Ford" Displacement="3.5" Combined="20" Cylinders="6" City="17" Highway="25" Year="2016" />
+  <Car Name="ESCAPE AWD" Manufacturer="Ford" Displacement="1.6" Combined="25" Cylinders="4" City="22" Highway="29" Year="2016" />
+  <Car Name="ESCAPE AWD" Manufacturer="Ford" Displacement="2" Combined="23" Cylinders="4" City="21" Highway="28" Year="2016" />
+  <Car Name="TERRAIN AWD" Manufacturer="GMC" Displacement="2.4" Combined="23" Cylinders="4" City="20" Highway="29" Year="2016" />
+  <Car Name="TERRAIN AWD" Manufacturer="GMC" Displacement="3.6" Combined="18" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="CR-V 4WD" Manufacturer="Honda" Displacement="2.4" Combined="27" Cylinders="4" City="25" Highway="31" Year="2016" />
+  <Car Name="HR-V 4WD" Manufacturer="Honda" Displacement="1.8" Combined="29" Cylinders="4" City="27" Highway="32" Year="2016" />
+  <Car Name="HR-V 4WD" Manufacturer="Honda" Displacement="1.8" Combined="29" Cylinders="4" City="27" Highway="32" Year="2016" />
+  <Car Name="PILOT 4WD" Manufacturer="Honda" Displacement="3.5" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="PILOT 4WD" Manufacturer="Honda" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="Santa Fe AWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="3.3" Combined="20" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="Santa Fe Sport AWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="21" Cylinders="4" City="18" Highway="24" Year="2016" />
+  <Car Name="Santa Fe Sport AWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2.4" Combined="21" Cylinders="4" City="19" Highway="25" Year="2016" />
+  <Car Name="Santa Fe Ultimate AWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="3.3" Combined="19" Cylinders="6" City="17" Highway="22" Year="2016" />
+  <Car Name="Tucson AWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="26" Cylinders="4" City="24" Highway="28" Year="2016" />
+  <Car Name="Tucson AWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="2" Combined="23" Cylinders="4" City="21" Highway="26" Year="2016" />
+  <Car Name="Tucson Eco AWD" Manufacturer="HYUNDAI MOTOR COMPANY" Displacement="1.6" Combined="27" Cylinders="4" City="25" Highway="31" Year="2016" />
+  <Car Name="QX60 AWD" Manufacturer="INFINITI" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="QX70 AWD" Manufacturer="INFINITI" Displacement="3.7" Combined="18" Cylinders="6" City="16" Highway="22" Year="2016" />
+  <Car Name="Cherokee 4X4" Manufacturer="Jeep" Displacement="2.4" Combined="24" Cylinders="4" City="21" Highway="28" Year="2016" />
+  <Car Name="Cherokee 4X4" Manufacturer="Jeep" Displacement="2.4" Combined="24" Cylinders="4" City="21" Highway="28" Year="2016" />
+  <Car Name="Cherokee 4X4" Manufacturer="Jeep" Displacement="3.2" Combined="23" Cylinders="6" City="20" Highway="28" Year="2016" />
+  <Car Name="Cherokee 4x4 Active Drive II" Manufacturer="Jeep" Displacement="2.4" Combined="23" Cylinders="4" City="21" Highway="27" Year="2016" />
+  <Car Name="Cherokee 4x4 Active Drive II" Manufacturer="Jeep" Displacement="3.2" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="Cherokee Trailhawk 4X4" Manufacturer="Jeep" Displacement="2.4" Combined="22" Cylinders="4" City="19" Highway="25" Year="2016" />
+  <Car Name="Cherokee Trailhawk 4X4" Manufacturer="Jeep" Displacement="3.2" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="Compass 4X4" Manufacturer="Jeep" Displacement="2.4" Combined="22" Cylinders="4" City="20" Highway="26" Year="2016" />
+  <Car Name="Compass 4X4" Manufacturer="Jeep" Displacement="2.4" Combined="21" Cylinders="4" City="20" Highway="23" Year="2016" />
+  <Car Name="Compass 4X4" Manufacturer="Jeep" Displacement="2.4" Combined="24" Cylinders="4" City="22" Highway="27" Year="2016" />
+  <Car Name="Patriot 4X4" Manufacturer="Jeep" Displacement="2.4" Combined="22" Cylinders="4" City="20" Highway="26" Year="2016" />
+  <Car Name="Patriot 4X4" Manufacturer="Jeep" Displacement="2.4" Combined="21" Cylinders="4" City="20" Highway="23" Year="2016" />
+  <Car Name="Patriot 4X4" Manufacturer="Jeep" Displacement="2.4" Combined="24" Cylinders="4" City="22" Highway="27" Year="2016" />
+  <Car Name="Renegade 4x4" Manufacturer="Jeep" Displacement="1.4" Combined="27" Cylinders="4" City="24" Highway="31" Year="2016" />
+  <Car Name="Renegade 4x4" Manufacturer="Jeep" Displacement="2.4" Combined="24" Cylinders="4" City="21" Highway="29" Year="2016" />
+  <Car Name="Wrangler 4X4" Manufacturer="Jeep" Displacement="3.6" Combined="18" Cylinders="6" City="17" Highway="21" Year="2016" />
+  <Car Name="Wrangler 4X4" Manufacturer="Jeep" Displacement="3.6" Combined="18" Cylinders="6" City="17" Highway="21" Year="2016" />
+  <Car Name="Wrangler Unlimited 4X4" Manufacturer="Jeep" Displacement="3.6" Combined="18" Cylinders="6" City="16" Highway="20" Year="2016" />
+  <Car Name="Wrangler Unlimited 4X4" Manufacturer="Jeep" Displacement="3.6" Combined="18" Cylinders="6" City="16" Highway="21" Year="2016" />
+  <Car Name="Sorento AWD" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="22" Cylinders="4" City="19" Highway="25" Year="2016" />
+  <Car Name="Sorento AWD" Manufacturer="KIA MOTORS CORPORATION" Displacement="2.4" Combined="23" Cylinders="4" City="21" Highway="26" Year="2016" />
+  <Car Name="Sorento AWD" Manufacturer="KIA MOTORS CORPORATION" Displacement="3.3" Combined="19" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="Sorento AWD FE" Manufacturer="KIA MOTORS CORPORATION" Displacement="3.3" Combined="21" Cylinders="6" City="18" Highway="26" Year="2016" />
+  <Car Name="Sportage AWD" Manufacturer="KIA MOTORS CORPORATION" Displacement="2.4" Combined="22" Cylinders="4" City="19" Highway="26" Year="2016" />
+  <Car Name="Sportage SX AWD" Manufacturer="KIA MOTORS CORPORATION" Displacement="2" Combined="21" Cylinders="4" City="19" Highway="25" Year="2016" />
+  <Car Name="Discovery Sport" Manufacturer="Land Rover" Displacement="2" Combined="22" Cylinders="4" City="20" Highway="26" Year="2016" />
+  <Car Name="Range Rover Evoque" Manufacturer="Land Rover" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="30" Year="2016" />
+  <Car Name="NX 200t AWD" Manufacturer="LEXUS" Displacement="2" Combined="24" Cylinders="4" City="22" Highway="28" Year="2016" />
+  <Car Name="NX 200t AWD F SPORT" Manufacturer="LEXUS" Displacement="2" Combined="24" Cylinders="4" City="22" Highway="27" Year="2016" />
+  <Car Name="NX 300h AWD" Manufacturer="LEXUS" Displacement="2.5" Combined="32" Cylinders="4" City="33" Highway="30" Year="2016" />
+  <Car Name="RX 350 AWD" Manufacturer="LEXUS" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="MKC  AWD" Manufacturer="Lincoln" Displacement="2" Combined="22" Cylinders="4" City="19" Highway="26" Year="2016" />
+  <Car Name="MKC  AWD" Manufacturer="Lincoln" Displacement="2.3" Combined="21" Cylinders="4" City="18" Highway="26" Year="2016" />
+  <Car Name="MKX AWD" Manufacturer="Lincoln" Displacement="2.7" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="MKX AWD" Manufacturer="Lincoln" Displacement="3.7" Combined="19" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="CX-5 4WD" Manufacturer="MAZDA" Displacement="2.5" Combined="26" Cylinders="4" City="24" Highway="30" Year="2016" />
+  <Car Name="GLA 250 4MATIC" Manufacturer="Mercedes-Benz" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="32" Year="2016" />
+  <Car Name="GLA 250 4MATIC" Manufacturer="Mercedes-Benz" Displacement="2" Combined="27" Cylinders="4" City="24" Highway="32" Year="2016" />
+  <Car Name="GLC 300 4MATIC" Manufacturer="Mercedes-Benz" Displacement="2" Combined="24" Cylinders="4" City="21" Highway="28" Year="2016" />
+  <Car Name="OUTLANDER 4WD" Manufacturer="Mitsubishi Motors Corporation" Displacement="2.4" Combined="26" Cylinders="4" City="24" Highway="29" Year="2016" />
+  <Car Name="OUTLANDER 4WD" Manufacturer="Mitsubishi Motors Corporation" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="OUTLANDER SPORT 4WD" Manufacturer="Mitsubishi Motors Corporation" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="29" Year="2016" />
+  <Car Name="OUTLANDER SPORT 4WD" Manufacturer="Mitsubishi Motors Corporation" Displacement="2.4" Combined="24" Cylinders="4" City="22" Highway="27" Year="2016" />
+  <Car Name="PATHFINDER 4WD" Manufacturer="NISSAN" Displacement="3.5" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="PATHFINDER 4WD PLATINUM" Manufacturer="NISSAN" Displacement="3.5" Combined="21" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="ROGUE AWD" Manufacturer="NISSAN" Displacement="2.5" Combined="28" Cylinders="4" City="25" Highway="32" Year="2016" />
+  <Car Name="Macan S" Manufacturer="Porsche" Displacement="3" Combined="19" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="Macan Turbo" Manufacturer="Porsche" Displacement="3.6" Combined="19" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="CROSSTREK" Manufacturer="Subaru" Displacement="2" Combined="29" Cylinders="4" City="26" Highway="34" Year="2016" />
+  <Car Name="CROSSTREK" Manufacturer="Subaru" Displacement="2" Combined="26" Cylinders="4" City="23" Highway="31" Year="2016" />
+  <Car Name="CROSSTREK HYBRID" Manufacturer="Subaru" Displacement="2" Combined="31" Cylinders="4" City="30" Highway="34" Year="2016" />
+  <Car Name="FORESTER" Manufacturer="Subaru" Displacement="2" Combined="25" Cylinders="4" City="23" Highway="28" Year="2016" />
+  <Car Name="FORESTER" Manufacturer="Subaru" Displacement="2.5" Combined="27" Cylinders="4" City="24" Highway="32" Year="2016" />
+  <Car Name="FORESTER" Manufacturer="Subaru" Displacement="2.5" Combined="25" Cylinders="4" City="22" Highway="29" Year="2016" />
+  <Car Name="OUTBACK" Manufacturer="Subaru" Displacement="2.5" Combined="28" Cylinders="4" City="25" Highway="33" Year="2016" />
+  <Car Name="OUTBACK" Manufacturer="Subaru" Displacement="3.6" Combined="22" Cylinders="6" City="20" Highway="27" Year="2016" />
+  <Car Name="RAV4 AWD" Manufacturer="TOYOTA" Displacement="2.5" Combined="25" Cylinders="4" City="22" Highway="29" Year="2016" />
+  <Car Name="RAV4 HYBRID AWD" Manufacturer="TOYOTA" Displacement="2.5" Combined="33" Cylinders="4" City="34" Highway="31" Year="2016" />
+  <Car Name="RAV4 Limited AWD/SE AWD" Manufacturer="TOYOTA" Displacement="2.5" Combined="25" Cylinders="4" City="22" Highway="29" Year="2016" />
+  <Car Name="Tiguan 4Motion" Manufacturer="Volkswagen" Displacement="2" Combined="23" Cylinders="4" City="20" Highway="26" Year="2016" />
+  <Car Name="XC60 AWD" Manufacturer="Volvo" Displacement="2" Combined="22" Cylinders="4" City="19" Highway="27" Year="2016" />
+  <Car Name="XC60 AWD" Manufacturer="Volvo" Displacement="2.5" Combined="22" Cylinders="5" City="19" Highway="26" Year="2016" />
+  <Car Name="XC60 AWD" Manufacturer="Volvo" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="XC70 AWD" Manufacturer="Volvo" Displacement="2.5" Combined="22" Cylinders="5" City="19" Highway="26" Year="2016" />
+  <Car Name="X5 sDrive35i" Manufacturer="BMW" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="X6 sDrive35i" Manufacturer="BMW" Displacement="3" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="ENCLAVE FWD" Manufacturer="Buick" Displacement="3.6" Combined="18" Cylinders="6" City="15" Highway="22" Year="2016" />
+  <Car Name="ESCALADE 2WD" Manufacturer="Cadillac" Displacement="6.2" Combined="17" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="SRX" Manufacturer="Cadillac" Displacement="3.6" Combined="19" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="C1500 SUBURBAN 2WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C1500 SUBURBAN 2WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C1500 TAHOE 2WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C1500 TAHOE 2WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="TRAVERSE FWD" Manufacturer="Chevrolet" Displacement="3.6" Combined="18" Cylinders="6" City="15" Highway="22" Year="2016" />
+  <Car Name="Durango RWD" Manufacturer="Dodge" Displacement="3.6" Combined="22" Cylinders="6" City="19" Highway="27" Year="2016" />
+  <Car Name="Durango RWD" Manufacturer="Dodge" Displacement="5.7" Combined="17" Cylinders="8" City="14" Highway="22" Year="2016" />
+  <Car Name="Expedition 2WD" Manufacturer="Ford" Displacement="3.5" Combined="18" Cylinders="6" City="16" Highway="22" Year="2016" />
+  <Car Name="Expedition EL 2WD" Manufacturer="Ford" Displacement="3.5" Combined="17" Cylinders="6" City="15" Highway="21" Year="2016" />
+  <Car Name="EXPLORER FFV 2WD" Manufacturer="Ford" Displacement="3.5" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="EXPLORER FWD" Manufacturer="Ford" Displacement="2.3" Combined="22" Cylinders="4" City="19" Highway="28" Year="2016" />
+  <Car Name="EXPLORER FWD" Manufacturer="Ford" Displacement="3.5" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="Flex FWD" Manufacturer="Ford" Displacement="3.5" Combined="19" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="ACADIA FWD" Manufacturer="GMC" Displacement="3.6" Combined="18" Cylinders="6" City="15" Highway="22" Year="2016" />
+  <Car Name="C1500 YUKON 2WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C1500 YUKON 2WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C1500 YUKON 2WD" Manufacturer="GMC" Displacement="6.2" Combined="17" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="C1500 YUKON XL 2WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C1500 YUKON XL 2WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="23" Year="2016" />
+  <Car Name="C1500 YUKON XL 2WD" Manufacturer="GMC" Displacement="6.2" Combined="17" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="QX60 Hybrid FWD" Manufacturer="INFINITI" Displacement="2.5" Combined="26" Cylinders="4" City="26" Highway="28" Year="2016" />
+  <Car Name="QX80 2WD" Manufacturer="INFINITI" Displacement="5.6" Combined="16" Cylinders="8" City="14" Highway="20" Year="2016" />
+  <Car Name="Grand Cherokee 4X2" Manufacturer="Jeep" Displacement="3" Combined="25" Cylinders="6" City="22" Highway="30" Year="2016" />
+  <Car Name="Grand Cherokee 4X2" Manufacturer="Jeep" Displacement="3.6" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="MKT FWD" Manufacturer="Lincoln" Displacement="3.7" Combined="19" Cylinders="6" City="16" Highway="24" Year="2016" />
+  <Car Name="Navigator 2WD" Manufacturer="Lincoln" Displacement="3.5" Combined="18" Cylinders="6" City="16" Highway="22" Year="2016" />
+  <Car Name="Navigator L 2WD" Manufacturer="Lincoln" Displacement="3.5" Combined="17" Cylinders="6" City="15" Highway="20" Year="2016" />
+  <Car Name="GLE 350" Manufacturer="Mercedes-Benz" Displacement="3.5" Combined="20" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="4RUNNER 2WD" Manufacturer="TOYOTA" Displacement="4" Combined="19" Cylinders="6" City="17" Highway="22" Year="2016" />
+  <Car Name="SEQUOIA 2WD" Manufacturer="TOYOTA" Displacement="5.7" Combined="15" Cylinders="8" City="13" Highway="17" Year="2016" />
+  <Car Name="XC90 FWD" Manufacturer="Volvo" Displacement="2" Combined="24" Cylinders="4" City="22" Highway="26" Year="2016" />
+  <Car Name="X5 M" Manufacturer="BMW" Displacement="4.4" Combined="16" Cylinders="8" City="14" Highway="19" Year="2016" />
+  <Car Name="X5 xDrive 35d" Manufacturer="BMW" Displacement="3" Combined="26" Cylinders="6" City="23" Highway="30" Year="2016" />
+  <Car Name="X5 xDrive35i" Manufacturer="BMW" Displacement="3" Combined="20" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="X5 xDrive50i" Manufacturer="BMW" Displacement="4.4" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="X6 M" Manufacturer="BMW" Displacement="4.4" Combined="16" Cylinders="8" City="14" Highway="19" Year="2016" />
+  <Car Name="X6 xDrive35i" Manufacturer="BMW" Displacement="3" Combined="20" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="X6 xDrive50i" Manufacturer="BMW" Displacement="4.4" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="ENCLAVE AWD" Manufacturer="Buick" Displacement="3.6" Combined="17" Cylinders="6" City="15" Highway="22" Year="2016" />
+  <Car Name="ESCALADE 4WD" Manufacturer="Cadillac" Displacement="6.2" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="SRX AWD" Manufacturer="Cadillac" Displacement="3.6" Combined="18" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="K1500 SUBURBAN 4WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="K1500 SUBURBAN 4WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="K1500 TAHOE 4WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="K1500 TAHOE 4WD" Manufacturer="Chevrolet" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="TRAVERSE AWD" Manufacturer="Chevrolet" Displacement="3.6" Combined="17" Cylinders="6" City="15" Highway="22" Year="2016" />
+  <Car Name="Durango AWD" Manufacturer="Dodge" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="Durango AWD" Manufacturer="Dodge" Displacement="5.7" Combined="17" Cylinders="8" City="14" Highway="22" Year="2016" />
+  <Car Name="Expedition 4WD" Manufacturer="Ford" Displacement="3.5" Combined="17" Cylinders="6" City="15" Highway="20" Year="2016" />
+  <Car Name="Expedition EL 4WD" Manufacturer="Ford" Displacement="3.5" Combined="16" Cylinders="6" City="14" Highway="20" Year="2016" />
+  <Car Name="EXPLORER AWD" Manufacturer="Ford" Displacement="2.3" Combined="21" Cylinders="4" City="18" Highway="26" Year="2016" />
+  <Car Name="EXPLORER AWD" Manufacturer="Ford" Displacement="3.5" Combined="18" Cylinders="6" City="16" Highway="22" Year="2016" />
+  <Car Name="EXPLORER AWD" Manufacturer="Ford" Displacement="3.5" Combined="19" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="EXPLORER FFV AWD" Manufacturer="Ford" Displacement="3.5" Combined="19" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="FLEX AWD" Manufacturer="Ford" Displacement="3.5" Combined="18" Cylinders="6" City="16" Highway="22" Year="2016" />
+  <Car Name="FLEX AWD" Manufacturer="Ford" Displacement="3.5" Combined="17" Cylinders="6" City="15" Highway="21" Year="2016" />
+  <Car Name="ACADIA AWD" Manufacturer="GMC" Displacement="3.6" Combined="17" Cylinders="6" City="15" Highway="22" Year="2016" />
+  <Car Name="K1500 YUKON 4WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="K1500 YUKON 4WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="16" Highway="22" Year="2016" />
+  <Car Name="K1500 YUKON 4WD" Manufacturer="GMC" Displacement="6.2" Combined="17" Cylinders="8" City="15" Highway="21" Year="2016" />
+  <Car Name="K1500 YUKON XL 4WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="K1500 YUKON XL 4WD" Manufacturer="GMC" Displacement="5.3" Combined="18" Cylinders="8" City="15" Highway="22" Year="2016" />
+  <Car Name="K1500 YUKON XL 4WD" Manufacturer="GMC" Displacement="6.2" Combined="16" Cylinders="8" City="14" Highway="20" Year="2016" />
+  <Car Name="QX60 Hybrid AWD" Manufacturer="INFINITI" Displacement="2.5" Combined="26" Cylinders="4" City="25" Highway="28" Year="2016" />
+  <Car Name="QX80 4WD" Manufacturer="INFINITI" Displacement="5.6" Combined="15" Cylinders="8" City="13" Highway="19" Year="2016" />
+  <Car Name="Grand Cherokee 4X4" Manufacturer="Jeep" Displacement="3" Combined="24" Cylinders="6" City="21" Highway="28" Year="2016" />
+  <Car Name="Grand Cherokee 4X4" Manufacturer="Jeep" Displacement="3.6" Combined="21" Cylinders="6" City="18" Highway="25" Year="2016" />
+  <Car Name="Grand Cherokee 4X4" Manufacturer="Jeep" Displacement="5.7" Combined="17" Cylinders="8" City="14" Highway="22" Year="2016" />
+  <Car Name="Grand Cherokee SRT8 4x4" Manufacturer="Jeep" Displacement="6.4" Combined="15" Cylinders="8" City="13" Highway="19" Year="2016" />
+  <Car Name="LR4" Manufacturer="Land Rover" Displacement="3" Combined="16" Cylinders="6" City="15" Highway="19" Year="2016" />
+  <Car Name="Range Rover" Manufacturer="Land Rover" Displacement="3" Combined="19" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="Range Rover" Manufacturer="Land Rover" Displacement="5" Combined="16" Cylinders="8" City="14" Highway="19" Year="2016" />
+  <Car Name="Range Rover LWB" Manufacturer="Land Rover" Displacement="3" Combined="19" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="Range Rover LWB" Manufacturer="Land Rover" Displacement="5" Combined="16" Cylinders="8" City="14" Highway="19" Year="2016" />
+  <Car Name="Range Rover Sport" Manufacturer="Land Rover" Displacement="3" Combined="19" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="Range Rover Sport" Manufacturer="Land Rover" Displacement="5" Combined="16" Cylinders="8" City="14" Highway="19" Year="2016" />
+  <Car Name="Range Rover Sport TDV6" Manufacturer="Land Rover" Displacement="3" Combined="25" Cylinders="6" City="22" Highway="29" Year="2016" />
+  <Car Name="Range Rover TDV6" Manufacturer="Land Rover" Displacement="3" Combined="25" Cylinders="6" City="22" Highway="29" Year="2016" />
+  <Car Name="GX 460" Manufacturer="LEXUS" Displacement="4.6" Combined="17" Cylinders="8" City="15" Highway="20" Year="2016" />
+  <Car Name="LX 570" Manufacturer="LEXUS" Displacement="5.7" Combined="15" Cylinders="8" City="13" Highway="18" Year="2016" />
+  <Car Name="RX 450h AWD" Manufacturer="LEXUS" Displacement="3.5" Combined="30" Cylinders="6" City="30" Highway="28" Year="2016" />
+  <Car Name="MKT AWD" Manufacturer="Lincoln" Displacement="3.5" Combined="17" Cylinders="6" City="15" Highway="21" Year="2016" />
+  <Car Name="Navigator 4WD" Manufacturer="Lincoln" Displacement="3.5" Combined="17" Cylinders="6" City="15" Highway="20" Year="2016" />
+  <Car Name="Navigator L 4WD" Manufacturer="Lincoln" Displacement="3.5" Combined="16" Cylinders="6" City="15" Highway="19" Year="2016" />
+  <Car Name="AMG G 63" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="13" Cylinders="8" City="12" Highway="14" Year="2016" />
+  <Car Name="AMG G65" Manufacturer="Mercedes-Benz" Displacement="6" Combined="12" Cylinders="12" City="11" Highway="13" Year="2016" />
+  <Car Name="AMG GL 63" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="14" Cylinders="8" City="13" Highway="17" Year="2016" />
+  <Car Name="AMG GLE 63" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="15" Cylinders="8" City="13" Highway="17" Year="2016" />
+  <Car Name="AMG GLE 63 S" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="15" Cylinders="8" City="13" Highway="17" Year="2016" />
+  <Car Name="AMG GLE 63 S (coupe)" Manufacturer="Mercedes-Benz" Displacement="5.5" Combined="15" Cylinders="8" City="14" Highway="18" Year="2016" />
+  <Car Name="G 550" Manufacturer="Mercedes-Benz" Displacement="4" Combined="13" Cylinders="8" City="13" Highway="14" Year="2016" />
+  <Car Name="GL 350 BLUETEC 4MATIC" Manufacturer="Mercedes-Benz" Displacement="3" Combined="22" Cylinders="6" City="19" Highway="26" Year="2016" />
+  <Car Name="GL 450 4MATIC" Manufacturer="Mercedes-Benz" Displacement="3" Combined="19" Cylinders="6" City="17" Highway="21" Year="2016" />
+  <Car Name="GL 550 4MATIC" Manufacturer="Mercedes-Benz" Displacement="4.7" Combined="15" Cylinders="8" City="13" Highway="18" Year="2016" />
+  <Car Name="GLE 300 d 4MATIC" Manufacturer="Mercedes-Benz" Displacement="2.1" Combined="24" Cylinders="4" City="22" Highway="29" Year="2016" />
+  <Car Name="GLE 350 4MATIC" Manufacturer="Mercedes-Benz" Displacement="3.5" Combined="19" Cylinders="6" City="17" Highway="22" Year="2016" />
+  <Car Name="GLE 350 4MATIC" Manufacturer="Mercedes-Benz" Displacement="3.5" Combined="19" Cylinders="6" City="17" Highway="22" Year="2016" />
+  <Car Name="GLE 350 d 4MATIC" Manufacturer="Mercedes-Benz" Displacement="3" Combined="26" Cylinders="6" City="23" Highway="30" Year="2016" />
+  <Car Name="GLE 400 4MATIC" Manufacturer="Mercedes-Benz" Displacement="3" Combined="20" Cylinders="6" City="18" Highway="22" Year="2016" />
+  <Car Name="GLE 450 AMG (coupe)" Manufacturer="Mercedes-Benz" Displacement="3" Combined="20" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="Cayenne" Manufacturer="Porsche" Displacement="3.6" Combined="21" Cylinders="6" City="19" Highway="24" Year="2016" />
+  <Car Name="Cayenne Diesel" Manufacturer="Porsche" Displacement="3" Combined="23" Cylinders="6" City="20" Highway="29" Year="2016" />
+  <Car Name="Cayenne GTS" Manufacturer="Porsche" Displacement="3.6" Combined="19" Cylinders="6" City="16" Highway="23" Year="2016" />
+  <Car Name="Cayenne S" Manufacturer="Porsche" Displacement="3.6" Combined="20" Cylinders="6" City="17" Highway="24" Year="2016" />
+  <Car Name="Cayenne Turbo" Manufacturer="Porsche" Displacement="4.8" Combined="17" Cylinders="8" City="14" Highway="21" Year="2016" />
+  <Car Name="Cayenne Turbo S" Manufacturer="Porsche" Displacement="4.8" Combined="17" Cylinders="8" City="14" Highway="21" Year="2016" />
+  <Car Name="4RUNNER 4WD" Manufacturer="TOYOTA" Displacement="4" Combined="18" Cylinders="6" City="17" Highway="21" Year="2016" />
+  <Car Name="4RUNNER 4WD" Manufacturer="TOYOTA" Displacement="4" Combined="18" Cylinders="6" City="17" Highway="21" Year="2016" />
+  <Car Name="HIGHLANDER AWD" Manufacturer="TOYOTA" Displacement="3.5" Combined="20" Cylinders="6" City="18" Highway="24" Year="2016" />
+  <Car Name="HIGHLANDER HYBRID AWD" Manufacturer="TOYOTA" Displacement="3.5" Combined="28" Cylinders="6" City="27" Highway="28" Year="2016" />
+  <Car Name="HIGHLANDER HYBRID AWD LE Plus" Manufacturer="TOYOTA" Displacement="3.5" Combined="28" Cylinders="6" City="28" Highway="28" Year="2016" />
+  <Car Name="LAND CRUISER WAGON 4WD" Manufacturer="TOYOTA" Displacement="5.7" Combined="15" Cylinders="8" City="13" Highway="18" Year="2016" />
+  <Car Name="SEQUOIA 4WD" Manufacturer="TOYOTA" Displacement="5.7" Combined="14" Cylinders="8" City="13" Highway="17" Year="2016" />
+  <Car Name="SEQUOIA 4WD FFV" Manufacturer="TOYOTA" Displacement="5.7" Combined="14" Cylinders="8" City="13" Highway="17" Year="2016" />
+  <Car Name="Touareg" Manufacturer="Volkswagen" Displacement="3" Combined="24" Cylinders="6" City="21" Highway="29" Year="2016" />
+  <Car Name="Touareg" Manufacturer="Volkswagen" Displacement="3.6" Combined="19" Cylinders="6" City="17" Highway="23" Year="2016" />
+  <Car Name="XC90 AWD" Manufacturer="Volvo" Displacement="2" Combined="22" Cylinders="4" City="20" Highway="25" Year="2016" />
+  <Car Name="XC90 AWD" Manufacturer="Volvo" Displacement="2" Combined="23" Cylinders="4" City="22" Highway="25" Year="2016" />
+</Cars>
