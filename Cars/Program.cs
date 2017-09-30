@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
@@ -9,6 +8,9 @@ namespace Cars
     {
         static void Main(string[] args)
         {
+            CarXML.CreateXML();
+            CarXML.QueryXML();
+
             var cars = ProcessCarFile("fuel.csv");
             var manufacturers = ProcessManufacturerFile("manufacturers.csv");
 
@@ -29,14 +31,14 @@ namespace Cars
                                     };
                                 })
                                 .OrderByDescending(g=> g.Max);
-            foreach(var car in aggregateQuery)
-            {
-                Console.WriteLine(car.Manufacturer);
-                Console.WriteLine($"\t Max : {car.Max}");
-                Console.WriteLine($"\t Min : {car.Min}");
-                Console.WriteLine($"\t Average : {car.Average}");
+            //foreach(var car in aggregateQuery)
+            //{
+            //    Console.WriteLine(car.Manufacturer);
+            //    Console.WriteLine($"\t Max : {car.Max}");
+            //    Console.WriteLine($"\t Min : {car.Min}");
+            //    Console.WriteLine($"\t Average : {car.Average}");
 
-            }
+            //}
 
             var gjCountryQuery = from manufacturer in manufacturers
                                  join car in cars on manufacturer.Name equals car.Manufacturer
@@ -147,14 +149,14 @@ namespace Cars
 
         }
 
-        private static List<Manufacturer> ProcessManufacturerFile(string file)
+        public static List<Manufacturer> ProcessManufacturerFile(string file)
             => File.ReadAllLines(file)
                     .Skip(1)
                     .Where(line => line.Length > 1)
                     .ToManufacturer()
                     .ToList();
 
-        private static List<Car> ProcessCarFile(string file)
+        public static List<Car> ProcessCarFile(string file)
             => File.ReadAllLines(file)
                     .Skip(1)
                     .Where(line => line.Length > 1)
