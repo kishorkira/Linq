@@ -11,11 +11,14 @@ namespace Cars
             var records =Program.ProcessCarFile("fuel.csv");
 
             var document = new XDocument();
-            var cars = new XElement("Cars",
+            var ns = (XNamespace)"http://motors.com/cars/2016";
+            var ex = (XNamespace)"http://motors.com/cars/2016/ex";
+
+            var cars = new XElement(ns + "Cars",
                                     records
                                     .Select
                                     (r => 
-                                    new XElement("Car",
+                                    new XElement(ex + "Car",
                                                  new XAttribute("Name", r.Name),
                                                  new XAttribute("Manufacturer", r.Manufacturer),
                                                  new XAttribute("Displacement", r.Displacement),
@@ -26,6 +29,7 @@ namespace Cars
                                                  new XAttribute("Year", r.Year)
                                                  )
                                     ));
+            cars.Add(new XAttribute(XNamespace.Xmlns + "ex", ex));
             document.Add(cars);
             document.Save("fuel.xml");
         }
@@ -33,8 +37,10 @@ namespace Cars
         public static void QueryXML()
         {
             var document = XDocument.Load("fuel.xml");
+            var ns = (XNamespace)"http://motors.com/cars/2016";
+            var ex = (XNamespace)"http://motors.com/cars/2016/ex";
 
-            var query = document.Element("Cars").Elements("Car")
+            var query = document.Element(ns+"Cars")?.Elements(ex+"Car")
                         .Where(e => e.Attribute("Manufacturer")?.Value == "BMW") ;
 
             foreach(var car in query)
