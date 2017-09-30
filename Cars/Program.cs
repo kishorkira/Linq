@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Data.Entity;
 using System.IO;
 using System.Linq;
 
@@ -8,8 +10,12 @@ namespace Cars
     {
         static void Main(string[] args)
         {
-            CarXML.CreateXML();
-            CarXML.QueryXML();
+           Database.SetInitializer(new DropCreateDatabaseIfModelChanges<CarDb>());
+            InsertData();
+            QueryData();
+
+           // CarXML.CreateXML();
+           // CarXML.QueryXML();
 
             var cars = ProcessCarFile("fuel.csv");
             var manufacturers = ProcessManufacturerFile("manufacturers.csv");
@@ -147,6 +153,35 @@ namespace Cars
             //    Console.WriteLine($"{car.Name,-20} {car.Headquarters,-12} : {car.Combined}");
             //}
 
+        }
+
+        private static void InsertData()
+        {
+            var cars = ProcessCarFile("fuel.csv");
+            var db = new CarDb();
+
+            if (!db.Cars.Any())
+            {
+                foreach(var car in cars)
+                {
+                    db.Cars.Add(car);
+                }
+                db.SaveChanges();
+            }
+        }
+
+        private static void QueryData()
+        {
+            var db = new CarDb();
+            db.Database.Log = Console.WriteLine;
+            var query = db.Cars
+                        .OrderByDescending(c => c.Combined)
+                        .ThenBy(c => c.Name)
+                        .Take(10);
+            foreach(var car in query)
+            {
+                Console.WriteLine($"{car.Name,-20} {car.Manufacturer,-12} : {car.Combined}");
+            }
         }
 
         public static List<Manufacturer> ProcessManufacturerFile(string file)
