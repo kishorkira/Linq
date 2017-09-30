@@ -174,13 +174,25 @@ namespace Cars
         {
             var db = new CarDb();
             db.Database.Log = Console.WriteLine;
-            var query = db.Cars
-                        .OrderByDescending(c => c.Combined)
-                        .ThenBy(c => c.Name)
-                        .Take(10);
-            foreach(var car in query)
+            var query =
+                db.Cars                  
+                  .GroupBy(c => c.Combined)
+                  .Select(g => new
+                    {
+                        Name = g.Key,                            
+                        Cars = g.OrderByDescending(c => c.Combined)
+                                .ThenBy(c => c.Name)
+                                .Take(3)
+                    })
+                  .OrderByDescending(g=>g.Name);
+                        
+            foreach(var group in query.Take(15))
             {
-                Console.WriteLine($"{car.Name,-20} {car.Manufacturer,-12} : {car.Combined}");
+                Console.WriteLine(group.Name);
+                foreach(var car in group.Cars)
+                { 
+                Console.WriteLine($"\t{car.Name,-20} : {car.Manufacturer}");
+                }
             }
         }
 
