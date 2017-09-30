@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Car.cs" />
+    <Compile Include="CarDb.cs" />
     <Compile Include="CarExtensions.cs" />
     <Compile Include="CarStatistics.cs" />
     <Compile Include="CarXML.cs" />

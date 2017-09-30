@@ -8,3 +8,7 @@ C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\obj\Debug\Cars.exe
 C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\obj\Debug\Cars.pdb
 C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\bin\Debug\fuel.csv
 C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\bin\Debug\manufacturers.csv
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\bin\Debug\EntityFramework.dll
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\bin\Debug\EntityFramework.xml
+C:\Users\kisho\Google Drive\.Net\C#\C#\LINQ\Cars\bin\Debug\EntityFramework.SqlServer.xml
